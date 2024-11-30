@@ -1,0 +1,26 @@
+{
+  "terminal.integrated.defaultProfile.linux": "bash",
+  "githubIssues.issueBranchTitle": "feature/${issueNumber}-${sanitizedIssueTitle}",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "notebook.formatOnSave.enabled": true,
+  "jupyter.notebookFileRoot": "${workspaceFolder}",
+  "[python]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "files.exclude": {
+    "**/__pycache__": true
+  },
+  "python.testing.pytestEnabled": true,
+  "python.testing.pytestArgs": ["-s", "-vv", "tests"],
+  "terminal.integrated.env.linux": {
+    "PYTHONPATH": "${workspaceFolder}"
+  },
+  "terminal.integrated.env.osx": {
+    "PYTHONPATH": "${workspaceFolder}"
+  },
+  "terminal.integrated.env.windows": {
+    "PYTHONPATH": "${workspaceFolder}"
+  }
+}

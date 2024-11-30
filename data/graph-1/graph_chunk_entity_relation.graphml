@@ -1,0 +1,1043 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;RESPONSES&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Responses refers to the generated outputs from language models based on the given metrics and conditions during testing."</data>
+      <data key="d2">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </node>
+    <node id="&quot;PLOS ONE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"PLoS ONE is a scientific journal where research studies, including those on graph layout algorithms like Forceatlas2, are published."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;GROTH, P.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Groth, P. is tied to the research on understanding behaviours when working with datasets."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;MICROSOFT RESEARCH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Microsoft Research is an organization dedicated to scientific research and development, associated with several authors in this document."</data>
+      <data key="d2">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </node>
+    <node id="&quot;DAI Y.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dai Y. is acknowledged for their contributions to advancements in retrieval-augmented generation methods."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;YIH, W.-T.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Yih, W.-t. is an author engaged in the development of sophisticated language models and retrieval systems."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;GOODWIN ET AL.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Goodwin et al. is a research group that has contributed to advancements in summarization tasks using modern LLMs."</data>
+      <data key="d2">chunk-08d36b76886fe5200846ae27f3daca32</data>
+    </node>
+    <node id="&quot;ADLER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Adler is an author mentioned in the document, indicating her involvement in the research and development of advanced models like GPT-4."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;SIMPERL, E.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Simperl, E. is an influential figure in human-computer studies, contributing knowledge about data sensemaking."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;DIRECTNESS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Directness serves as a validity test measuring how straightforward and clear the responses are in addressing questions."</data>
+      <data key="d2">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </node>
+    <node id="&quot;MICROSOFT STRATEGIC MISSIONS AND TECHNOLOGIES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Microsoft Strategic Missions and Technologies is an entity involved in strategic technological solutions, part of the affiliations of multiple authors."</data>
+      <data key="d2">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </node>
+    <node id="&quot;SUN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sun is noted for their involvement in research contributing to AI, particularly in advancements related to neural processing."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;ROCKTÄSCHEL, T.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rocktäschel, T. is recognized for their work in integrating retrieval mechanisms into language processing models."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;KURATOV ET AL.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Kuratov et al. is a research collaboration focusing on the challenges and opportunities presented by large language models in various applications, including summarization."</data>
+      <data key="d2">chunk-08d36b76886fe5200846ae27f3daca32</data>
+    </node>
+    <node id="&quot;AGARWAL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Agarwal is one of the contributors cited in associations with technical reports on AI, showcasing his role in model development."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;KURATOV, Y.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kuratov, Y. is an author exploring advanced methods for finding information within large datasets."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;MICROSOFT OFFICE OF THE CTO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Microsoft Office of the CTO focuses on technological leadership and innovation, represented by one of the authors."</data>
+      <data key="d2">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </node>
+    <node id="&quot;WANG H.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Wang H. is mentioned for his contributions in advancing understanding in the realm of large language models."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;LIU, N. F.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Liu, N. F. is an author researching long contexts for language models, contributing to the understanding of context management."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;ZHENG, L.&quot;}">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Zheng, L. is an author involved in research related to language models and artificial intelligence.")</data>
+      <data key="d2">chunk-916f35d0705c09db97e5283af8e72e84</data>
+    </node>
+    <node id="&quot;AHMAD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ahmad is referenced as an author in the document, suggesting contributions to advancements in multimodal models."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;BULATOV, A.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bulatov, A. is an author discussing novel approaches to data retrieval in complex environments."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;LARGE LANGUAGE MODELS (LLMS)&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Large Language Models (LLMs) are advanced AI systems that can understand and generate human-like text, used extensively in applications like question answering and text summarization."</data>
+      <data key="d2">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </node>
+    <node id="&quot;KANG, M.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kang, M. is an author associated with a knowledge graph-augmented language models study, indicating their involvement in AI research."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;LIN, K.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lin, K. is engaged in enhancing language models to utilize longer contextual information effectively."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;ARXIV:2402.15301&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"arXiv:2402.15301 is a specific preprint document identifier in the arXiv repository concerning causal graph discovery.")</data>
+      <data key="d2">chunk-916f35d0705c09db97e5283af8e72e84</data>
+    </node>
+    <node id="&quot;AKKAYA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Akkaya is listed among the researchers contributing to AI technologies as noted in the associated technical reports."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;ANOKHIN, P.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Anokhin, P. is involved in research targeting the enhancement of information retrieval techniques in language models."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;NEWS DATASET&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"News Dataset is a collection of news articles utilized in evaluating performance metrics like comprehensiveness and diversity."</data>
+      <data key="d2">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </node>
+    <node id="&quot;RETRIEVAL-AUGMENTED GENERATION (RAG)&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Retrieval-Augmented Generation (RAG) is a method that combines retrieval of information from external sources with generation capabilities of language models to answer questions effectively."</data>
+      <data key="d2">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </node>
+    <node id="&quot;KWAK, J. M.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kwak, J. M. is an author contributing to the enhancement of dialogue generation through knowledge graph augmentation, showcasing their expertise in AI."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;HEWITT, J.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hewitt, J. contributes to research focusing on how language models manage long contexts in processing."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;LM FOR IN-CONTEXT LEARNING&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LM for in-context learning refers to a framework or methodology developed by Brown et al. in 2020 that focuses on improving the efficiency and quality of named entity extraction through in-context learning techniques."</data>
+      <data key="d2">chunk-4700da6888063f9f62b005679de8d933</data>
+    </node>
+    <node id="&quot;ALEMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Aleman is mentioned as an author who has worked on the latest advancements in AI alongside the other contributors."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;SOROKIN, D.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sorokin, D. is an author focused on developing approaches to improve information retrieval in AI systems."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;USER QUERIES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"User Queries refers to the questions generated from understanding datasets, focusing on high-level insights and themes rather than specific details."</data>
+      <data key="d2">chunk-8d50c220259883ba4adef6347651aaea</data>
+    </node>
+    <node id="&quot;QUERY-FOCUSED SUMMARIZATION (QFS)&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Query-Focused Summarization (QFS) is a type of summarization that specifically aims to create summaries based on the user's questions, enhancing the relevance of the information provided."</data>
+      <data key="d2">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </node>
+    <node id="&quot;BAEK, J.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Baek, J. is an author involved in the research of language models and their applications in dialogue generation."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;PARANJAPE, A.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Paranjape, A. is an author involved in research addressing the complexities of language model contexts."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;BROWN ET AL. (2020)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Brown et al. (2020) refers to the authors of a foundational paper that discusses methods for named entity extraction and in-context learning, contributing to advancements in machine learning."</data>
+      <data key="d2">chunk-4700da6888063f9f62b005679de8d933</data>
+    </node>
+    <node id="&quot;ALMEIDA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Almeida is referenced in the context of contributing to technical research, specifically relating to language models."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;SOROKIN, A.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sorokin, A. is noted for their contributions to the field of data retrieval and language model development."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;PODCAST DATASET&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Podcast Dataset refers to a collection of audio transcripts used for testing global approaches in summarization and analysis."</data>
+      <data key="d2">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </node>
+    <node id="&quot;COMMUNITY DETECTION&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Community Detection refers to techniques used to identify groups of similar entities within a dataset, which aids in organizing and summarizing information effectively."</data>
+      <data key="d2">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </node>
+    <node id="&quot;HWANG, S. J.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hwang, S. J. is an author contributing to the study of knowledge-grounded dialogue generation, reflecting their role in advancing AI technologies."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;BEVILACQUA, M.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bevilacqua, M. is noted for their contributions towards understanding context utilization in language models."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;ELEMENT INSTANCES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Element Instances refers to a process described in the text involving the extraction of entities and their attributes from source texts, which is a crucial step in data organization and understanding."</data>
+      <data key="d2">chunk-4700da6888063f9f62b005679de8d933</data>
+    </node>
+    <node id="&quot;ALTENSCHMIDT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Altenschmidt is among the authors mentioned in the document, indicating participation in related AI developments."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;BURTSEV, M.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Burtsev, M. is an author engaged in research seeking innovative methods in data processing and language models."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;CONTEXT WINDOW SIZE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Context Window Size pertains to the length of text that can be processed by language models, affecting performance on tasks like summarization."</data>
+      <data key="d2">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </node>
+    <node id="&quot;GRAPH-BASED TEXT INDEX&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Graph-Based Text Index is an indexing approach that organizes documents in a graph structure to facilitate effective querying and summarization based on entity relationships."</data>
+      <data key="d2">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </node>
+    <node id="&quot;KHATTAB, O.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Khattab, O. is an author focused on composing retrieval and language models for knowledge-intensive NLP, showing their significance in computational linguistics."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;LLAMAINDEX&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LlamaIndex is an organization that focuses on providing tools for knowledge graph indexing and summarization in AI applications."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;GRAPH COMMUNITIES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Graph Communities describes the outcome of using community detection algorithms to identify groups of nodes in a graph that are more densely connected to each other than to other nodes, enhancing understanding of dataset structure."</data>
+      <data key="d2">chunk-4700da6888063f9f62b005679de8d933</data>
+    </node>
+    <node id="&quot;ALTMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Altman is cited as one of the contributors, implying his involvement in advancements within the field of AI."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;MARTIN, S.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Martin, S. is a researcher contributing to tool development for graph layout in data visualization."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;DIVERSITY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Diversity is a metric assessing the variety of responses generated, indicating creativity and variation in answers."</data>
+      <data key="d2">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </node>
+    <node id="&quot;DOCUMENT COLLECTIONS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Document Collections refer to grouped sets of documents used for analysis and retrieval tasks in research and information technology."</data>
+      <data key="d2">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </node>
+    <node id="&quot;SANTHANAM, K.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Santhanam, K. is an author contributing to the development of advanced language models for NLP tasks."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;RAM, O.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ram, O. is an author exploring in-context retrieval methods applied to language models, contributing significantly to AI research."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;LEIDEN ALGORITHM&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Leiden algorithm is a community detection algorithm used to partition graphs into communities based on the strength of connections, noted for its efficiency in handling large-scale graphs."</data>
+      <data key="d2">chunk-4700da6888063f9f62b005679de8d933</data>
+    </node>
+    <node id="&quot;ANADKAT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Anadkat is recognized as a researcher whose work is relevant to AI model advancements as listed in the document."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;BROWN, W. M.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Brown, W. M. is an author associated with visual data analysis and graphing tools."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;GPT-4-TURBO&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"GPT-4-Turbo refers to a language model with a large context size that is used for various natural language processing tasks."</data>
+      <data key="d2">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </node>
+    <node id="&quot;PYTHON&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Python is a high-level programming language used widely in research and development, particularly in data analysis and machine learning applications."</data>
+      <data key="d2">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </node>
+    <node id="&quot;LI, X. L.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Li, X. L. is an author involved in the research related to knowledge-intensive natural language processing."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;LEVINE, Y.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Levine, Y. specializes in innovative research on retrieval-augmented systems for enhancing language model performance."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;NAMED ENTITIES&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Named entities refer to specific categories of entities such as people, organizations, and places, which are often extracted from text for various applications in natural language processing."</data>
+      <data key="d2">chunk-4700da6888063f9f62b005679de8d933</data>
+    </node>
+    <node id="&quot;BORGEAUD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Borgeaud is an author of research papers referenced in the context of capabilities of advanced multimodal models."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;KLAVANS, R.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Klavans, R. has expertise in visualizing and understanding data structures within AI systems."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;GRAPH RAG&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Graph RAG is a method mentioned in the context of comparing answer performance across various metrics, focusing on comprehensiveness and diversity."&lt;SEP&gt;"Graph RAG is a proposed approach discussed in the research for query-focused summarization in large text corpora."&lt;SEP&gt;"Graph RAG is a retrieval-augmented generation approach that combines knowledge graph generation, retrieval, and summarization to enhance human sensemaking over text corpora."&lt;SEP&gt;"Graph RAG is a systematic approach for comparing different methods in the context of natural language processing and evaluation."&lt;SEP&gt;"Graph RAG is an advanced retrieval-augmented generation system that enhances text summarization and question answering through iterative strategies and community summaries."</data>
+      <data key="d2">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98&lt;SEP&gt;chunk-18c287f4fb86badedac15c19c5ff2b63&lt;SEP&gt;chunk-8bc94ade99820b3913b80f0e77fbb5ec&lt;SEP&gt;chunk-cdd66960b4484728cb0781c54f087cd1&lt;SEP&gt;chunk-4f652f8c2415208002c35fb88e8a4430</data>
+    </node>
+    <node id="&quot;SCIENTIFIC DISCOVERY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Scientific Discovery involves the process of understanding and exploring new scientific concepts and findings, an area pertinent to large language model applications."</data>
+      <data key="d2">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </node>
+    <node id="&quot;HALL, D.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hall, D. is an author contributing to the advancements in retrieval and language models for enhanced dialogue generation."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;DALMEDIGOS, I.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dalmedigos, I. is involved in exploring black-box detection methods for generative models, adding to the field of AI integrity checks."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;CLAIMS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Claims refer to assertions or statements linked to detected entities, which provide context and additional information about those entities within source texts."</data>
+      <data key="d2">chunk-4700da6888063f9f62b005679de8d933</data>
+    </node>
+    <node id="&quot;WU&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Wu is credited in the documentation for contributing to essential research on characteristics of advanced models like Gemini."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;BOYACK, K.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Boyack, K. contributes to research in network analysis and visualization techniques."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;TAYLOR SWIFT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Taylor Swift is a prominent musician known for her significant impact on the music industry, cultural narratives, and digital media. She is often in the spotlight for both her artistic achievements and personal life."</data>
+      <data key="d2">chunk-bd4ef716955e38ba1411e717dacdd630</data>
+    </node>
+    <node id="&quot;INTELLIGENCE ANALYSIS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Intelligence Analysis refers to the systematic examination of information to support decision-making processes, relevant in various domains including security and strategy."</data>
+      <data key="d2">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </node>
+    <node id="&quot;LIANG, P.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Liang, P. is an author recognized for their work on knowledge-grounded dialogue generation and large language models."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;MUHLGAY, D.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Muhlgay, D. contributes to understanding black-box behaviors in language models, focusing on AI transparency."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;MULTI-STAGE PROCESS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Multi-stage process describes the approach used to enhance named entity extraction by iteratively assessing and refining the detection of entities in the text."</data>
+      <data key="d2">chunk-4700da6888063f9f62b005679de8d933</data>
+    </node>
+    <node id="&quot;ALAYRAC&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alayrac is referenced as a significant contributor to the technical discussions surrounding the development of language models."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;MICROSOFT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Microsoft is a multinational technology company noted for its research on the impact of language models on scientific discovery."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;KEVIN SCOTT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kevin Scott is the Chief Technology Officer (CTO) of Microsoft and a prominent figure in technology discussions, particularly in podcasts related to the tech industry."</data>
+      <data key="d2">chunk-8d50c220259883ba4adef6347651aaea</data>
+    </node>
+    <node id="&quot;ARXIV&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"arXiv is an online repository where various technical papers and reports are published and accessed by the research community."&lt;SEP&gt;"arXiv is an open-access repository of electronic preprints (also known as e-prints) across various domains including computer science, where the document is archived."</data>
+      <data key="d2">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98&lt;SEP&gt;chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;POTTS, C.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Potts, C. is an author associated with the field of NLP, examining the intersection of language models and retrieval systems."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;SHASHUA, A.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Shashua, A. is recognized for their work in AI on ethical considerations and limitations in generative models."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;ENTITY GRAPH&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Entity graph is a representation that illustrates the relationships and connections between identified entities based on their interactions and shared attributes."</data>
+      <data key="d2">chunk-4700da6888063f9f62b005679de8d933</data>
+    </node>
+    <node id="&quot;YU&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Yu's contributions are noted in the context of advancements in multimodal models, as referenced in the technical documents."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;NEBULAGRAPH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"NebulaGraph is an organization pioneering in graph technology, recently launching a retrieval-augmented generation feature with large language models."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;KÜTTLER, H.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Küttler, H. is an author contributing to the domain of retrieval-augmented generation for language processing."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;MUSICIANS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Musicians are individuals who create and perform music, contributing significantly to cultural trends and entertainment narratives."</data>
+      <data key="d2">chunk-bd4ef716955e38ba1411e717dacdd630</data>
+    </node>
+    <node id="&quot;LEIDEN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Leiden is a reference to a community detection algorithm that is noted in the context of organizing and summarizing data within the Graph RAG approach."</data>
+      <data key="d2">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </node>
+    <node id="&quot;ZAHARIA, M.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Zaharia, M. is an author involved in the study of language models and their integration into knowledge systems."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;LEYTON-BROWN, K.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Leyton-Brown, K. engages in research exploring competitive aspects of language models within AI systems."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;COMMUNITY DETECTION ALGORITHMS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Community detection algorithms are computational methods used to identify and analyze communities within networks or graphs, helping to reveal the underlying structure of relationships among entities."</data>
+      <data key="d2">chunk-4700da6888063f9f62b005679de8d933</data>
+    </node>
+    <node id="&quot;SCHALKWYK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Schalkwyk is noted in the document, enhancing the research narrative related to AI model advancements."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;NEO4J&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Neo4J is an organization recognized for developing graph databases and recently involved in Project NaLLM, exploring advanced language models."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;CONDITION C0&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Condition C0 refers to a specific experimental setup used in the comparisons across the datasets, metrics, and questions in evaluating performance."</data>
+      <data key="d2">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </node>
+    <node id="&quot;COMMUNITY SUMMARIES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Community Summaries are structured analyses of groups of text that provide concise information and insights, impacting text summarization techniques."</data>
+      <data key="d2">chunk-8bc94ade99820b3913b80f0e77fbb5ec</data>
+    </node>
+    <node id="&quot;KIM, G.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kim, G. is an author who researches retrieval-augmented language models and their application in answering ambiguous questions."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;SHOHAM, Y.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Shoham, Y. contributes to the theoretical foundations and ethical implications of AI and language models."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;COVARIATES&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Covariates are additional variables or characteristics associated with extracted entities that provide further detail and context to the analysis."</data>
+      <data key="d2">chunk-4700da6888063f9f62b005679de8d933</data>
+    </node>
+    <node id="&quot;DAI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dai is cited as an influential author contributing to the technical exploration in AI subjects, particularly within Gemini."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;HOQUE, E.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hoque, E. is an author who studies query relevance and its integration into language models, showcasing expertise in summarization techniques."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;CONDITION C1&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Condition C1 represents another setup within the evaluation process aimed at assessing answer performance in various contexts."</data>
+      <data key="d2">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </node>
+    <node id="&quot;N&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"N represents a numerical variable used in the context of generating potential users and tasks for a dataset, indicating a systematic method for question generation."</data>
+      <data key="d2">chunk-18c287f4fb86badedac15c19c5ff2b63</data>
+    </node>
+    <node id="&quot;JEON, B.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jeon, B. is an author studying interactions within augmented language model frameworks."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Proceedings of the National Academy of Sciences is a prominent scientific journal that publishes high-quality research articles across various disciplines.</data>
+      <data key="d2">chunk-a48f0f44b342a20fd12974169617802b</data>
+    </node>
+    <node id="&quot;DARREN EDGE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Darren Edge is one of the authors affiliated with Microsoft Research, contributing to the document on Graph RAG approach."</data>
+      <data key="d2">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </node>
+    <node id="&quot;HAUTH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hauth is among those recognized for their contributions to the field of AI and multimodal modeling."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;HUANG, J.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Huang, J. is an author associated with research in abstract summarization focused on enhancing query relevance."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;CONDITION C2&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Condition C2 delineates a different experimental condition utilized during the performance evaluation of summarization techniques."</data>
+      <data key="d2">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </node>
+    <node id="&quot;GAO ET AL., 2023&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gao is a researcher associated with advanced methods in retrieval-augmented generation, contributing to the development of graph-based approaches."</data>
+      <data key="d2">chunk-4f652f8c2415208002c35fb88e8a4430</data>
+    </node>
+    <node id="&quot;PARK, J.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Park, J. is an author contributing to research on augmented dialogues and information retrieval systems."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="TANG, Y.">
+      <data key="d0">PERSON</data>
+      <data key="d1">Tang, Y. is a researcher involved in studies related to retrieval-augmented generation technologies and methodologies.</data>
+      <data key="d2">chunk-a48f0f44b342a20fd12974169617802b</data>
+    </node>
+    <node id="&quot;HA TRINH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ha Trinh is a co-author from Microsoft Research, equally contributing to the work outlined in the document."</data>
+      <data key="d2">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </node>
+    <node id="&quot;FENG Z.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Feng Z. is referenced for their work on retrieval-augmented text generation, contributing to the discourse on AI advancements."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;LEWIS, P.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lewis, P. is an author involved in the development of retrieval-augmented generation methods applied to NLP tasks."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;CONDITION C3&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Condition C3 is an additional setup designated for testing in the context of the described performance metrics."</data>
+      <data key="d2">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </node>
+    <node id="&quot;SHANE SOLOMON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Shane Solomon is referenced in a document related to various technical reports and advancements in language modeling and AI."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;KLEIN, G.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Klein, G. is an author who has published multiple works on sensemaking and intelligent systems."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;EMPOWERMENT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Empowerment refers to a measure of how well responses encourage user engagement and satisfaction."</data>
+      <data key="d2">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </node>
+    <node id="&quot;NEWMAN CHENG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Newman Cheng is a contributor affiliated with Microsoft Strategic Missions and Technologies, involved in the study."</data>
+      <data key="d2">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </node>
+    <node id="&quot;FENG X.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Feng X. is mentioned in the context of contributing to significant advancements in the domain of AI technology."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;PEREZ, E.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Perez, E. is a contributor focusing on advancements in knowledge-intensive NLP through retrieval mechanisms."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;SS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"SS signifies a baseline condition for assessing answer performance, used for comparison against other experimental conditions."</data>
+      <data key="d2">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </node>
+    <node id="&quot;GPT-4 TECHNICAL REPORT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The GPT-4 Technical Report details advancements in the GPT-4 model and its capabilities, published on arXiv."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;MOON, B.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Moon, B. is an author engaged in research on alternative perspectives regarding sensemaking in intelligent systems."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;JOSHUA BRADLEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Joshua Bradley is another author from Microsoft Strategic Missions and Technologies, collaborating on this research."</data>
+      <data key="d2">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </node>
+    <node id="&quot;GAO Y.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gao Y. is cited for contributions to the survey of retrieval-augmented generation for large language models."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;PIKTUS, A.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Piktus, A. is an author working on knowledge generation techniques that integrate retrieval systems effectively."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;TS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"TS represents a global text summarization method evaluated for its effectiveness in the study."</data>
+      <data key="d2">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </node>
+    <node id="&quot;GEMINI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Gemini is mentioned as a family of multimodal models, indicating its role in the development of advanced AI technologies."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;HOFFMAN, R. R.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hoffman, R. R. is an influential author in intelligent systems, focusing on cognitive aspects of sensemaking."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;ALEX CHAO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alex Chao is affiliated with Microsoft Office of the CTO and is one of the contributors to the document."</data>
+      <data key="d2">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </node>
+    <node id="&quot;XIONG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Xiong is noted in the context of collaborative research in the area of AI and machine learning advancements."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;PETRONI, F.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Petroni, F. is an author known for contributions to language model research and retrieval-augmented generation."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;BI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bi is identified as a significant contributor within the framework of AI research and technological progress."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;EMPOWERMENT METRIC&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Empowerment Metric is a specific measurement used to assess how well summarization techniques engage users and provide satisfactory answers."</data>
+      <data key="d2">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </node>
+    <node id="&quot;DUC 2005&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Duc 2005 refers to a specific event related to the evaluation of question-focused summarization systems in computational linguistics."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;KOESTEN, L.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Koesten, L. is an author who investigates human-computer interactions and data sensemaking behaviours."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;COMPREHENSIVENESS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Comprehensiveness is a metric used to evaluate the quality of generated responses based on the amount of information included."</data>
+      <data key="d2">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </node>
+    <node id="&quot;APURVA MODY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Apurva Mody is part of the team contributing to the mentioned research, associated with Microsoft."</data>
+      <data key="d2">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </node>
+    <node id="&quot;JIA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jia is mentioned as a contributing author engaged in the discourse of AI technologies and model development."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;KARPUKHIN, V.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Karpukhin, V. has expertise in retrieval methods applied to language and knowledge tasks within computational linguistics."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;WIN RATE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Win Rate indicates the percentage of comparisons that one method or approach outperformed another in the evaluation study."</data>
+      <data key="d2">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </node>
+    <node id="&quot;GEPHI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Gephi is a software used for network visualization, which is referenced in the context of community detection and graph layouts."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;GREGORY, K.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gregory, K. is an author exploring dataset communication and understanding within computational contexts."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;STEVEN TRUITT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Steven Truitt is also an author associated with the research from Microsoft Strategic Missions and Technologies."</data>
+      <data key="d2">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </node>
+    <node id="&quot;PAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Pan is referenced among the contributors, showcasing engagement in the advancement of large language models."</data>
+      <data key="d2">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </node>
+    <node id="&quot;GOYAL, N.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Goyal, N. is involved in advancing NLP through knowledge-rich models and retrieval techniques."</data>
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </node>
+    <node id="&quot;JONATHAN LARSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jonathan Larson is a contributor from Microsoft Research, collaborating on the research paper."</data>
+      <data key="d2">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </node>
+    <node id="&quot;LARGE LANGUAGE MODELS&quot;">
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+      <data key="d1">"Microsoft's research illustrates the effective role of large language models in scientific discovery, showing real-world applications."."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;RETRIEVAL-AUGMENTED GENERATION&quot;">
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+      <data key="d1">"NebulaGraph's new feature utilizes advancements from language model research, showcasing innovations in graph technologies."."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;PROJECT NALLM&quot;">
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+      <data key="d1">"Neo4J's Project NaLLM is aimed at utilizing graph-based approaches to enhance language models."."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;LASKAR, M. T. R.&quot;">
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+      <data key="d1">"Laskar, M. T. R. focuses on enhancing query relevance in abstractive summarization, showing the interplay of retrieval and model performance."."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;QUERY-FOCUSED ABSTRACTIVE SUMMARIZATION&quot;">
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+      <data key="d1">"Laskar, M. T. R. focuses on enhancing query relevance in abstractive summarization, showing the interplay of retrieval and model performance."."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;KNOWLEDGE GRAPH-AUGMENTED LANGUAGE MODELS&quot;">
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+      <data key="d1">"Kang, M. conducts research relevant to knowledge graph-augmented language models for dialogue generation."."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;125 TEST QUESTIONS&quot;">
+      <data key="d2">chunk-18c287f4fb86badedac15c19c5ff2b63</data>
+      <data key="d1">"N denotes the numerical variable used to generate a specific quantity of questions related to the evaluation datasets."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;KNOWLEDGE GRAPH INDEXING&quot;">
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+      <data key="d1">"LlamaIndex develops tools essential for indexing knowledge graphs, benefiting various NLP applications."."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;THE RESEARCH ON LANGUAGE MODELS IMPACTS SCIENTIFIC EXPLORATION, HIGHLIGHTING COLLABORATIONS BETWEEN VARIOUS AUTHORS.&quot;.&quot;">
+      <data key="d2">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+      <data key="d1">"AI impact, collaboration"</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <edge source="&quot;RESPONSES&quot;" target="&quot;COMPREHENSIVENESS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The quality of Responses can be measured in terms of comprehensiveness and how well they convey information.""</data>
+      <data key="d5">"quality assessment"</data>
+      <data key="d6">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </edge>
+    <edge source="&quot;RESPONSES&quot;" target="&quot;DIVERSITY&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Responses can vary greatly in diversity, affecting the overall user experience and engagement with generated content.""</data>
+      <data key="d5">"quality assessment"</data>
+      <data key="d6">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </edge>
+    <edge source="&quot;PLOS ONE&quot;" target="&quot;GEPHI&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Gephi, being software for network visualization, is used in studies published in PLoS ONE, showing its application in scientific research."}</data>
+      <data key="d5">"application, scientific research"</data>
+      <data key="d6">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </edge>
+    <edge source="&quot;MICROSOFT RESEARCH&quot;" target="&quot;JONATHAN LARSON&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Jonathan Larson is engaged with the research through Microsoft Research."&lt;</data>
+      <data key="d5">"employment, collaboration"</data>
+      <data key="d6">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </edge>
+    <edge source="&quot;MICROSOFT RESEARCH&quot;" target="&quot;GRAPH RAG&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Graph RAG is a project proposed within the context of research conducted by Microsoft Research."&lt;</data>
+      <data key="d5">"project development, research initiative"</data>
+      <data key="d6">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </edge>
+    <edge source="&quot;MICROSOFT RESEARCH&quot;" target="&quot;DARREN EDGE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Darren Edge is affiliated with Microsoft Research, contributing to the research outlined in the document."&lt;</data>
+      <data key="d5">"employment, collaboration"</data>
+      <data key="d6">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </edge>
+    <edge source="&quot;MICROSOFT RESEARCH&quot;" target="&quot;HA TRINH&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Ha Trinh's involvement in the paper is within the context of Microsoft Research, indicating a collaborative effort."&lt;</data>
+      <data key="d5">"employment, collaboration"</data>
+      <data key="d6">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </edge>
+    <edge source="&quot;MICROSOFT STRATEGIC MISSIONS AND TECHNOLOGIES&quot;" target="&quot;NEWMAN CHENG&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Newman Cheng is affiliated with Microsoft Strategic Missions and Technologies, contributing to the work."&lt;</data>
+      <data key="d5">"employment, collaboration"</data>
+      <data key="d6">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </edge>
+    <edge source="&quot;MICROSOFT STRATEGIC MISSIONS AND TECHNOLOGIES&quot;" target="&quot;JOSHUA BRADLEY&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Joshua Bradley, being from Microsoft Strategic Missions and Technologies, collaborates on the research project."&lt;</data>
+      <data key="d5">"employment, collaboration"</data>
+      <data key="d6">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </edge>
+    <edge source="&quot;MICROSOFT STRATEGIC MISSIONS AND TECHNOLOGIES&quot;" target="&quot;GRAPH RAG&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Graph RAG involves contributors from Microsoft Strategic Missions and Technologies, highlighting collaborative research."&lt;</data>
+      <data key="d5">"project development, research initiative"</data>
+      <data key="d6">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </edge>
+    <edge source="&quot;MICROSOFT STRATEGIC MISSIONS AND TECHNOLOGIES&quot;" target="&quot;STEVEN TRUITT&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Steven Truitt is affiliated with Microsoft Strategic Missions and Technologies, indicating a collaborative role."&lt;</data>
+      <data key="d5">"employment, collaboration"</data>
+      <data key="d6">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </edge>
+    <edge source="&quot;MICROSOFT OFFICE OF THE CTO&quot;" target="&quot;ALEX CHAO&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Alex Chao contributes to the research as an affiliate of the Microsoft Office of the CTO."&lt;</data>
+      <data key="d5">"employment, collaboration"</data>
+      <data key="d6">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </edge>
+    <edge source="&quot;KANG, M.&quot;" target="&quot;KNOWLEDGE GRAPH-AUGMENTED LANGUAGE MODELS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Kang, M. conducts research relevant to knowledge graph-augmented language models for dialogue generation."."</data>
+      <data key="d5">"AI research, dialogue generation"</data>
+      <data key="d6">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </edge>
+    <edge source="&quot;NEWS DATASET&quot;" target="&quot;GRAPH RAG&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Graph RAG is also evaluated against the News dataset, highlighting its effectiveness across different domains.""</data>
+      <data key="d5">"comparative analysis"</data>
+      <data key="d6">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </edge>
+    <edge source="&quot;PODCAST DATASET&quot;" target="&quot;GRAPH RAG&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Graph RAG is used to compare the performance of different summarization approaches evaluated against the Podcast dataset.""</data>
+      <data key="d5">"comparative analysis"</data>
+      <data key="d6">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </edge>
+    <edge source="&quot;CONTEXT WINDOW SIZE&quot;" target="&quot;COMPREHENSIVENESS&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Different context window sizes affect the overall comprehensiveness of generated responses.""</data>
+      <data key="d5">"performance metrics"</data>
+      <data key="d6">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </edge>
+    <edge source="&quot;CONTEXT WINDOW SIZE&quot;" target="&quot;DIVERSITY&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The context window size can also influence the diversity of the generated answers from the language model.""</data>
+      <data key="d5">"performance metrics"</data>
+      <data key="d6">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </edge>
+    <edge source="&quot;CONTEXT WINDOW SIZE&quot;" target="&quot;GPT-4-TURBO&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"GPT-4-Turbo's performance can be influenced by the context window size, impacting its ability to process larger amounts of information.""</data>
+      <data key="d5">"performance optimization"</data>
+      <data key="d6">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </edge>
+    <edge source="&quot;LLAMAINDEX&quot;" target="&quot;KNOWLEDGE GRAPH INDEXING&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"LlamaIndex develops tools essential for indexing knowledge graphs, benefiting various NLP applications."."</data>
+      <data key="d5">"knowledge management, AI tools"</data>
+      <data key="d6">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </edge>
+    <edge source="&quot;DIVERSITY&quot;" target="&quot;WIN RATE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Win Rate is also applicable for evaluating how diverse the responses generated by different methods are.""</data>
+      <data key="d5">"performance evaluation"</data>
+      <data key="d6">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </edge>
+    <edge source="&quot;DIVERSITY&quot;" target="&quot;COMPREHENSIVENESS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Comprehensiveness and diversity are both key metrics that evaluate the effectiveness of summarization techniques.""</data>
+      <data key="d5">"evaluation metrics"</data>
+      <data key="d6">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </edge>
+    <edge source="&quot;MICROSOFT&quot;" target="&quot;LARGE LANGUAGE MODELS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Microsoft's research illustrates the effective role of large language models in scientific discovery, showing real-world applications."."</data>
+      <data key="d5">"AI applications, scientific research"</data>
+      <data key="d6">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </edge>
+    <edge source="&quot;MICROSOFT&quot;" target="&quot;APURVA MODY&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Apurva Mody's contributions to the document stem from their association with Microsoft."&lt;</data>
+      <data key="d5">"employment, collaboration"</data>
+      <data key="d6">chunk-8a06df51e07fa7bf7dea2bbbc5e7cd98</data>
+    </edge>
+    <edge source="&quot;MICROSOFT&quot;" target="&quot;THE RESEARCH ON LANGUAGE MODELS IMPACTS SCIENTIFIC EXPLORATION, HIGHLIGHTING COLLABORATIONS BETWEEN VARIOUS AUTHORS.&quot;.&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"AI impact, collaboration"</data>
+      <data key="d5">7</data>
+      <data key="d6">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </edge>
+    <edge source="&quot;ARXIV&quot;" target="&quot;GEMINI&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Gemini, as a family of multimodal models, has its research and advancements published on arXiv, indicating their academic relevance."}</data>
+      <data key="d5">"publication, research"</data>
+      <data key="d6">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </edge>
+    <edge source="&quot;ARXIV&quot;" target="&quot;DUC 2005&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Duc 2005 is mentioned in arXiv, reflecting its importance in the academic discourse around summarization evaluation."}</data>
+      <data key="d5">"evaluation, significance"</data>
+      <data key="d6">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </edge>
+    <edge source="&quot;NEBULAGRAPH&quot;" target="&quot;RETRIEVAL-AUGMENTED GENERATION&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"NebulaGraph's new feature utilizes advancements from language model research, showcasing innovations in graph technologies."."</data>
+      <data key="d5">"innovation, technology integration"</data>
+      <data key="d6">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </edge>
+    <edge source="&quot;NEO4J&quot;" target="&quot;PROJECT NALLM&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Neo4J's Project NaLLM is aimed at utilizing graph-based approaches to enhance language models."."</data>
+      <data key="d5">"project development, language models"</data>
+      <data key="d6">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </edge>
+    <edge source="&quot;CONDITION C0&quot;" target="&quot;CONDITION C1&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Condition C0 and Condition C1 are part of the experimental framework used to evaluate the summarization techniques against different metrics.""</data>
+      <data key="d5">"experimental framework"</data>
+      <data key="d6">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </edge>
+    <edge source="&quot;N&quot;" target="&quot;125 TEST QUESTIONS&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"N denotes the numerical variable used to generate a specific quantity of questions related to the evaluation datasets."</data>
+      <data key="d5">"testing methodology, systematic approach"</data>
+      <data key="d6">chunk-18c287f4fb86badedac15c19c5ff2b63</data>
+    </edge>
+    <edge source="&quot;CONDITION C2&quot;" target="&quot;CONDITION C3&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Conditions C2 and C3 are additional elements of the evaluation setup used in conjunction with other conditions to assess performance.""</data>
+      <data key="d5">"experimental framework"</data>
+      <data key="d6">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </edge>
+    <edge source="&quot;LEWIS, P.&quot;" target="&quot;RETRIEVAL-AUGMENTED GENERATION&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Lewis, P. contributes to the knowledge generation techniques that enhance NLP capabilities through retrieval methods."."</data>
+      <data key="d5">"AI research, knowledge enhancement"</data>
+      <data key="d6">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </edge>
+    <edge source="&quot;SHANE SOLOMON&quot;" target="&quot;GPT-4 TECHNICAL REPORT&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Shane Solomon is mentioned in the references of the GPT-4 Technical Report, indicating his contribution or relevance to the material."}</data>
+      <data key="d5">"reference, contribution"</data>
+      <data key="d6">chunk-77e8b7478a3ebaeb256aefc827351455</data>
+    </edge>
+    <edge source="&quot;SS&quot;" target="&quot;TS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"SS serves as a baseline against which the TS method is compared, providing reference points for evaluating summary performance.""</data>
+      <data key="d5">"baseline comparison"</data>
+      <data key="d6">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </edge>
+    <edge source="&quot;COMPREHENSIVENESS&quot;" target="&quot;WIN RATE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Win Rate is used to illustrate the effectiveness of various approaches in achieving comprehensiveness in answers.""</data>
+      <data key="d5">"performance evaluation"</data>
+      <data key="d6">chunk-cdd66960b4484728cb0781c54f087cd1</data>
+    </edge>
+    <edge source="&quot;LASKAR, M. T. R.&quot;" target="&quot;QUERY-FOCUSED ABSTRACTIVE SUMMARIZATION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Laskar, M. T. R. focuses on enhancing query relevance in abstractive summarization, showing the interplay of retrieval and model performance."."</data>
+      <data key="d5">"summarization, AI enhancement"</data>
+      <data key="d6">chunk-469d6c0b9916605fb460ed90b1252d7a</data>
+    </edge>
+  </graph>
+</graphml>

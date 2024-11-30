@@ -20,10 +20,6 @@ def insert_pdf(rag, pdf_dir: str) -> None:
         for page in reader.pages:
             text += page.extract_text() + "\n"
         texts.append(text)
-
-    # Select only one
-    texts = [texts[1]]
-
     rag.insert(texts)
 
 
@@ -58,11 +54,12 @@ rag = LightRAG(
     working_dir=GRAPH_DIR,
     llm_model_func=gpt_4o_mini_complete,
 )
-# insert_pdf(rag, PDF_DIR)
+insert_pdf(rag, PDF_DIR)
 visualize_graph(GRAPH_DIR)
 
 
 query = "What is the difference between GraphRAG vs LightRAG? Answer in Korean."
+
 
 # Perform naive search
 for mode in ("naive", "local", "global", "hybrid"):

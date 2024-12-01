@@ -1,0 +1,1239 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="CONFIG_DIR">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">config_dir is the directory path specified in the config where relevant configuration files for the OracleDB may be located.</data>
+      <data key="d2">chunk-f0e6d273aafbc657de6a368f7fc6c1ea</data>
+    </node>
+    <node id="&quot;SOURCE_CHUNK_ID&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Source chunk ID is an identifier linking back to a specific chunk of content in the report."</data>
+      <data key="d2">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </node>
+    <node id="LIGHTRAG_GRAPH_EDGES">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">LIGHTRAG_GRAPH_EDGES is an organization or component that manages various edges in the graph database, linking different nodes and managing their relationships.</data>
+      <data key="d2">chunk-21f690edefbe2b6bdc6778dfd8440908</data>
+    </node>
+    <node id="RETURN">
+      <data key="d0">EVENT</data>
+      <data key="d1">return indicates the action of sending back results from SQL queries executed within the self.db framework, signifying the completion of data operations.</data>
+      <data key="d2">chunk-6ed66bb818dbcb0e7adbf7f59eb26d32</data>
+    </node>
+    <node id="HAS_EDGE">
+      <data key="d0">EVENT</data>
+      <data key="d1">The has_edge method determines if there is an edge (relationship) between two specified nodes in the Neo4j database.</data>
+      <data key="d2">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </node>
+    <node id="WALLET_LOCATION">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">wallet_location is the path where the Oracle Wallet is stored, which can hold credentials for database authentication securely.</data>
+      <data key="d2">chunk-f0e6d273aafbc657de6a368f7fc6c1ea</data>
+    </node>
+    <node id="&quot;WORKSPACE_ID&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Workspace ID is a unique identifier assigned to a specific workspace within the database system for organization."</data>
+      <data key="d2">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </node>
+    <node id="DATACLASS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">dataclass is a decorator in Python used to automatically generate special methods like __init__() and __repr__() for classes, simplifying the creation of class instances.</data>
+      <data key="d2">chunk-41ffa62ae35aacf50b575dc13496e5d9</data>
+    </node>
+    <node id="LIGHTRAG_DOC_CHUNKS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">lightrag_doc_chunks is an organization that contains chunks of documents used to provide content for entities within the graph database.</data>
+      <data key="d2">chunk-21f690edefbe2b6bdc6778dfd8440908</data>
+    </node>
+    <node id="MULTIROWS">
+      <data key="d0">EVENT</data>
+      <data key="d1">multirows indicates the capability to retrieve multiple rows of data from a query execution, essential for handling large datasets.&lt;SEP&gt;multirows is a parameter used in database queries within OracleKVStorage that allows fetching multiple rows of data at once.</data>
+      <data key="d2">chunk-6ed66bb818dbcb0e7adbf7f59eb26d32&lt;SEP&gt;chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </node>
+    <node id="EDGE_DEGREE">
+      <data key="d0">EVENT</data>
+      <data key="d1">The edge_degree method calculates the total degree count of two nodes by summing their individual degrees in the graph.</data>
+      <data key="d2">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </node>
+    <node id="&quot;EDGE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Edge in graph databases represents a relationship between two nodes in the graph."</data>
+      <data key="d2">chunk-48bed0b5e959b71cf0334df9cd9b4859</data>
+    </node>
+    <node id="WALLET_PASSWORD">
+      <data key="d0">PERSON</data>
+      <data key="d1">wallet_password is the password used to encrypt and access the Oracle Wallet containing sensitive information for database access.</data>
+      <data key="d2">chunk-f0e6d273aafbc657de6a368f7fc6c1ea</data>
+    </node>
+    <node id="ORACLEGRAPHSTORAGE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">OracleGraphStorage is a class designed to manage graph storage in a database using Oracle, featuring methods for node and edge manipulation, embedding, and querying.</data>
+      <data key="d2">chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </node>
+    <node id="T0">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">t0 is a temporary table used to fetch and organize data from the underlying database for the subsequent query operations.</data>
+      <data key="d2">chunk-21f690edefbe2b6bdc6778dfd8440908</data>
+    </node>
+    <node id="DEGREE">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">degree refers to the measure of connectivity or relationships between nodes in a network, relevant to the functionality of node_degree.</data>
+      <data key="d2">chunk-6ed66bb818dbcb0e7adbf7f59eb26d32</data>
+    </node>
+    <node id="ORACLEKVSTORAGE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">OracleKVStorage is a class that implements key-value storage management for a database, providing functionalities for querying, inserting, and handling data efficiently.</data>
+      <data key="d2">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </node>
+    <node id="&quot;ASYNC/AWAIT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Async/await is a programming construct that allows writing asynchronous code that reads like synchronous code, enhancing readability and manageability."</data>
+      <data key="d2">chunk-48bed0b5e959b71cf0334df9cd9b4859</data>
+    </node>
+    <node id="PARAMS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">params are the parameters passed to SQL queries in OracleKVStorage, crucial for customizing database interactions.&lt;SEP&gt;params refers to parameters that can be passed to SQL queries defined within OracleDB to customize the queries' behavior.</data>
+      <data key="d2">chunk-047287d5e4aa5695c1efb8f9d7050b88&lt;SEP&gt;chunk-f0e6d273aafbc657de6a368f7fc6c1ea</data>
+    </node>
+    <node id="NODE AND EDGE DATA">
+      <data key="d0">EVENT</data>
+      <data key="d1">Node and edge data refers to the entities and their relationships managed within the graph storage, contributing to the overall structure and functionality of the graph.</data>
+      <data key="d2">chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </node>
+    <node id="T1">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">t1 is a temporary table that aggregates and processes data, mainly focusing on relationships and connections between entities in the database.</data>
+      <data key="d2">chunk-21f690edefbe2b6bdc6778dfd8440908</data>
+    </node>
+    <node id="NODE_ID">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">node_id is a unique identifier used to specify individual nodes within the self.db organization, crucial for data retrieval and management.&lt;SEP&gt;node_id represents a unique identifier for each node in the graph, essential for distinguishing nodes during operations like insertion and querying.</data>
+      <data key="d2">chunk-6ed66bb818dbcb0e7adbf7f59eb26d32&lt;SEP&gt;chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </node>
+    <node id="METHOD: GET_BY_ID">
+      <data key="d0">EVENT</data>
+      <data key="d1">get_by_id is an asynchronous function in the OracleKVStorage class that retrieves complete document data based on an ID query.</data>
+      <data key="d2">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </node>
+    <node id="&quot;NODE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Node is a fundamental data structure in graph databases representing entities."</data>
+      <data key="d2">chunk-48bed0b5e959b71cf0334df9cd9b4859</data>
+    </node>
+    <node id="DTYPE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">dtype indicates the data type used for converting numpy arrays in the OracleDB class, crucial for data manipulation between Python and the database.</data>
+      <data key="d2">chunk-f0e6d273aafbc657de6a368f7fc6c1ea</data>
+    </node>
+    <node id="GRAPHML">
+      <data key="d0">EVENT</data>
+      <data key="d1">GraphML is a file format used for describing graphs, referenced in the context of loading and saving graph data in OracleGraphStorage.</data>
+      <data key="d2">chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </node>
+    <node id="T2">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">t2 is a temporary table that accumulates content based on the selected source_chunk_id, facilitating the gathering of detailed information about certain entries.</data>
+      <data key="d2">chunk-21f690edefbe2b6bdc6778dfd8440908</data>
+    </node>
+    <node id="SOURCE_NODE_ID">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">source_node_id is a term used to define the originating node in edge-related operations, influencing how data is navigated in the database.&lt;SEP&gt;source_node_id is an identifier for the source node in a relationship when creating or updating edges in the graph.</data>
+      <data key="d2">chunk-6ed66bb818dbcb0e7adbf7f59eb26d32&lt;SEP&gt;chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </node>
+    <node id="METHOD: UPSERT">
+      <data key="d0">EVENT</data>
+      <data key="d1">upsert is an asynchronous function in the OracleKVStorage class that updates or inserts new data into the database, managing the key-value pairs properly.</data>
+      <data key="d2">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </node>
+    <node id="CONNECTION">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Connection refers to a specific instance of a database connection used to interact with a database by executing commands and retrieving data.</data>
+      <data key="d2">chunk-544d3dadb2f692c3f89ab58938400e64</data>
+    </node>
+    <node id="ARRAYSIZE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">arraysize is a parameter specified in the input/output handlers of OracleDB which defines the size of the array expected or returned by the cursor.</data>
+      <data key="d2">chunk-f0e6d273aafbc657de6a368f7fc6c1ea</data>
+    </node>
+    <node id="UPSERT_NODE">
+      <data key="d0">EVENT</data>
+      <data key="d1">upsert_node is a method within the OracleGraphStorage class responsible for inserting or updating nodes in the graph storage, handling the data associated with each node.</data>
+      <data key="d2">chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </node>
+    <node id="WORKSPACE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">workspace is a parameter used in queries which indicates the specific environment or context in which the database operations are being performed.&lt;SEP&gt;workspace refers to a specific environment or scope in which the graph data is manipulated and queried, often tied to particular user settings or contexts.&lt;SEP&gt;workspace refers to the identifier used in Oracle Graph within the OracleDB class, providing context for intended operations.</data>
+      <data key="d2">chunk-047287d5e4aa5695c1efb8f9d7050b88&lt;SEP&gt;chunk-f0e6d273aafbc657de6a368f7fc6c1ea&lt;SEP&gt;chunk-21f690edefbe2b6bdc6778dfd8440908</data>
+    </node>
+    <node id="TARGET_NODE_ID">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">target_node_id refers to the destination node involved in edge operations, necessary for understanding relationships between nodes.&lt;SEP&gt;target_node_id refers to the identifier for the target node in a relationship within the context of edges between nodes.</data>
+      <data key="d2">chunk-6ed66bb818dbcb0e7adbf7f59eb26d32&lt;SEP&gt;chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </node>
+    <node id="TOKENS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">tokens represent the segments of content that are processed while inserting or retrieving data in OracleKVStorage, likely used for textual analysis.</data>
+      <data key="d2">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </node>
+    <node id="DATA">
+      <data key="d0">EVENT</data>
+      <data key="d1">Data represents the structured information processed and stored in a database, which can be manipulated using SQL commands during various operations.&lt;SEP&gt;data is a dictionary structure used throughout OracleKVStorage for managing the input to methods like upsert, essential for maintaining state.</data>
+      <data key="d2">chunk-047287d5e4aa5695c1efb8f9d7050b88&lt;SEP&gt;chunk-544d3dadb2f692c3f89ab58938400e64</data>
+    </node>
+    <node id="METADATA">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">metadata refers to data that gives information about other data within the cursor context in OracleDB, assisting in data handling processes.</data>
+      <data key="d2">chunk-f0e6d273aafbc657de6a368f7fc6c1ea</data>
+    </node>
+    <node id="NODE_DATA">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">node_data is a dictionary that contains information about a node, including its type, description, and related metadata.</data>
+      <data key="d2">chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </node>
+    <node id="FETCH FIRST">
+      <data key="d0">EVENT</data>
+      <data key="d1">fetch first is an event that signifies the action of limiting query results in the database retrieval to a specified number of records.</data>
+      <data key="d2">chunk-21f690edefbe2b6bdc6778dfd8440908</data>
+    </node>
+    <node id="&quot;LIGHTRAG_DOC_CHUNKS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LIGHTRAG_DOC_CHUNKS is a database or system for managing document chunks and associated metadata."</data>
+      <data key="d2">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </node>
+    <node id="CHUNK_ORDER_INDEX">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">chunk_order_index is used to maintain the sequence of content chunks when storing them in OracleKVStorage, ensuring ordered retrieval.</data>
+      <data key="d2">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </node>
+    <node id="&quot;LIGHTRAG&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"lightrag is an organization related to software or code development, as indicated by its presence in the context of Python code."&lt;SEP&gt;"lightrag is likely a software or project organization, given it is part of the source structure."</data>
+      <data key="d2">chunk-8b16251883748a2cd9a1c078f6c88535&lt;SEP&gt;chunk-dd805a7d3f0c30f94be96a499b9288bb</data>
+    </node>
+    <node id="EXCEPTION">
+      <data key="d0">EVENT</data>
+      <data key="d1">exception indicates an event that occurs when an error arises during database operations, prompting error handling procedures within OracleDB.&lt;SEP&gt;exception is a condition that denotes an error occurring during database operations, particularly in the context of error handling in OracleKVStorage.</data>
+      <data key="d2">chunk-047287d5e4aa5695c1efb8f9d7050b88&lt;SEP&gt;chunk-f0e6d273aafbc657de6a368f7fc6c1ea</data>
+    </node>
+    <node id="UPSERT_EDGE">
+      <data key="d0">EVENT</data>
+      <data key="d1">upsert_edge is a method in OracleGraphStorage that manages the insertion or updating of edges between nodes in the graph storage.</data>
+      <data key="d2">chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </node>
+    <node id="ID">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">id is a unique identifier for rows in the database tables, essential for distinguishing between different records in queries.</data>
+      <data key="d2">chunk-21f690edefbe2b6bdc6778dfd8440908</data>
+    </node>
+    <node id="&quot;DUAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"DUAL is a database system used for managing table operations, particularly in SQL queries."</data>
+      <data key="d2">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </node>
+    <node id="FULL_DOC_ID">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">full_doc_id is an identifier that refers to the complete document from which the chunks are derived, linking parts to the whole.</data>
+      <data key="d2">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </node>
+    <node id="&quot;NEO4J&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Neo4j is a graph database management system that allows users to interact with data as a graph structure, leveraging relationships and nodes."</data>
+      <data key="d2">chunk-48bed0b5e959b71cf0334df9cd9b4859</data>
+    </node>
+    <node id="&quot;ORACLEVECTORDBSTORAGE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"OracleVectorDBStorage is a class that extends BaseVectorStorage and manages data insertion and querying in a vector database, presumably for handling embeddings."</data>
+      <data key="d2">chunk-73fd087c22538f216324c7f3360826e0</data>
+    </node>
+    <node id="EDGE_DATA">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">edge_data is a dictionary holding details about a graph edge, such as weight and description, used during edge operations.</data>
+      <data key="d2">chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </node>
+    <node id="LABEL">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">label is a keyword associated with entities used to describe or categorize them within the database queries.</data>
+      <data key="d2">chunk-21f690edefbe2b6bdc6778dfd8440908</data>
+    </node>
+    <node id="&quot;VECTOR_STORAGE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"VECTOR_STORAGE refers to the process or operation involved in handling vector data for storage and retrieval."</data>
+      <data key="d2">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </node>
+    <node id="RES">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">res is a variable that holds the result of database queries within the methods of OracleKVStorage, indicating query outcomes.</data>
+      <data key="d2">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </node>
+    <node id="&quot;SESSION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A Session in Neo4j is an instance used to run database queries and manage transactions."</data>
+      <data key="d2">chunk-48bed0b5e959b71cf0334df9cd9b4859</data>
+    </node>
+    <node id="&quot;BASEVECTORSTORAGE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"BaseVectorStorage acts as a foundational class for vector storage functionalities, although its specific attributes and methods are not detailed in the provided code."</data>
+      <data key="d2">chunk-73fd087c22538f216324c7f3360826e0</data>
+    </node>
+    <node id="EMBEDDING_FUNC">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">embedding_func refers to a function used in OracleGraphStorage to create vector embeddings for nodes based on their content.</data>
+      <data key="d2">chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </node>
+    <node id="ENTITY_TYPE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">entity_type refers to the classification of entities within the database, indicating what kind of entity it is, such as person, organization, geo, or event.</data>
+      <data key="d2">chunk-21f690edefbe2b6bdc6778dfd8440908</data>
+    </node>
+    <node id="&quot;GRAPH_STORAGE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"GRAPH_STORAGE refers to the process or operation involved in managing graph data in a database, particularly for nodes and edges."</data>
+      <data key="d2">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </node>
+    <node id="CURSOR">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Cursor is an object used in database programming that allows the execution of commands and the manipulation of database records through an interface.&lt;SEP&gt;cursor refers to a database cursor object within OracleDB that allows for executing SQL statements and retrieving records.</data>
+      <data key="d2">chunk-f0e6d273aafbc657de6a368f7fc6c1ea&lt;SEP&gt;chunk-544d3dadb2f692c3f89ab58938400e64</data>
+    </node>
+    <node id="&quot;SQL_TEMPLATES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"SQL_TEMPLATES is a collection or mapping used within the query method to format SQL statements based on specified parameters, although details on its structure are not provided."</data>
+      <data key="d2">chunk-73fd087c22538f216324c7f3360826e0</data>
+    </node>
+    <node id="CONTENT_VECTOR">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">content_vector is a numerical representation generated from the node's content, utilized for various computational tasks such as machine learning applications.</data>
+      <data key="d2">chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </node>
+    <node id="DESCRIPTION">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">description provides a detailed account or explanation of the entity's attributes and activities, enhancing understanding of its role in the database.</data>
+      <data key="d2">chunk-21f690edefbe2b6bdc6778dfd8440908</data>
+    </node>
+    <node id="&quot;LIGHTRAG_GRAPH_NODES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LIGHTRAG_GRAPH_NODES is a table that holds information about nodes in a graph structure, including entity types and descriptions."</data>
+      <data key="d2">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </node>
+    <node id="&quot;TRANSACTION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Transaction in Neo4j refers to a set of operations that are executed as a single unit of work, ensuring data integrity."</data>
+      <data key="d2">chunk-48bed0b5e959b71cf0334df9cd9b4859</data>
+    </node>
+    <node id="&quot;ASYNC&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"async denotes methods that run asynchronously, allowing for non-blocking execution of procedures in the code, crucial for handling I/O operations efficiently."</data>
+      <data key="d2">chunk-73fd087c22538f216324c7f3360826e0</data>
+    </node>
+    <node id="NEO4JSTORAGE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Neo4JStorage is a class defined for managing the connection and operations related to a Neo4j database, including methods for loading graphs, checking node and edge existence, and retrieving node information.</data>
+      <data key="d2">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </node>
+    <node id="ORACLE DATABASE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Oracle Database is a relational database management system produced and marketed by Oracle Corporation, known for its robustness and versatility in handling large datasets.&lt;SEP&gt;The Oracle database is a relational database system utilized for storing and retrieving data and is accessible through the OracleDB class, characterized by various configurations and connection parameters.</data>
+      <data key="d2">chunk-f0e6d273aafbc657de6a368f7fc6c1ea&lt;SEP&gt;chunk-544d3dadb2f692c3f89ab58938400e64</data>
+    </node>
+    <node id="KEYWORDS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">keywords are key terms associated with edges that help summarize the nature of their relationships within the graph database.</data>
+      <data key="d2">chunk-21f690edefbe2b6bdc6778dfd8440908</data>
+    </node>
+    <node id="&quot;LIGHTRAG_GRAPH_EDGES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LIGHTRAG_GRAPH_EDGES is a table that stores relationships (edges) between nodes in a graph database."</data>
+      <data key="d2">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </node>
+    <node id="SQL">
+      <data key="d0">EVENT</data>
+      <data key="d1">SQL (Structured Query Language) is a standard programming language used for managing and manipulating relational databases, instrumental in executing commands such as queries, updates, and data management.&lt;SEP&gt;SQL is a structured query language utilized within the self.db framework to perform operations on the data stored in the database.&lt;SEP&gt;sql is a structured query language statement executed within OracleDB for data manipulation or retrieval from the database.</data>
+      <data key="d2">chunk-6ed66bb818dbcb0e7adbf7f59eb26d32&lt;SEP&gt;chunk-f0e6d273aafbc657de6a368f7fc6c1ea&lt;SEP&gt;chunk-544d3dadb2f692c3f89ab58938400e64</data>
+    </node>
+    <node id="&quot;EMBEDDINGS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"embeddings are numerical representations of data points in a continuous vector space, crucial for similarity searches in vector databases."</data>
+      <data key="d2">chunk-73fd087c22538f216324c7f3360826e0</data>
+    </node>
+    <node id="ASYNCGRAPHDATABASE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">AsyncGraphDatabase is a class used to create an asynchronous driver for interacting with the Neo4j database, allowing for non-blocking database operations.</data>
+      <data key="d2">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </node>
+    <node id="SOURCE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">source denotes the originating or initiating part of an edge in the graph, crucial for depicting relationships.</data>
+      <data key="d2">chunk-21f690edefbe2b6bdc6778dfd8440908</data>
+    </node>
+    <node id="&quot;CONTENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Content refers to the textual or binary information stored within the document chunks in the database."</data>
+      <data key="d2">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </node>
+    <node id="&quot;QUERY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A query in Neo4j is a request for data from the database using Cypher language, which retrieves or modifies data."&lt;SEP&gt;"query is a method defined in the OracleVectorDBStorage class dedicated to retrieving data from the vector database using embeddings, handling parameters for precision and results."</data>
+      <data key="d2">chunk-73fd087c22538f216324c7f3360826e0&lt;SEP&gt;chunk-48bed0b5e959b71cf0334df9cd9b4859</data>
+    </node>
+    <node id="&quot;DIMENSION&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Dimension refers to the number of coordinates in which a vector exists, impacting the representation of data."&lt;SEP&gt;"dimension refers to the size or shape of the vector, indicating the number of values representing a single data point in the embedding."</data>
+      <data key="d2">chunk-73fd087c22538f216324c7f3360826e0&lt;SEP&gt;chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </node>
+    <node id="OS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">os is a Python module that provides a way of using operating system-dependent functionality like reading environment variables.</data>
+      <data key="d2">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </node>
+    <node id="TARGET">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">target refers to the endpoint of a relationship in the graph database, indicating what entity is being referenced or linked.</data>
+      <data key="d2">chunk-21f690edefbe2b6bdc6778dfd8440908</data>
+    </node>
+    <node id="&quot;WORKSPACE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Workspace represents a specific context or environment in which the document processing operations take place, likely a defined space within the database system."</data>
+      <data key="d2">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </node>
+    <node id="&quot;LOGGED DEBUG&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Logged debug refers to the process of writing debug logs to track the execution of operations for debugging purposes."</data>
+      <data key="d2">chunk-48bed0b5e959b71cf0334df9cd9b4859</data>
+    </node>
+    <node id="&quot;DTYPE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Dtype indicates the type of data being processed or stored in the system, essential for querying and data management."&lt;SEP&gt;"dtype signifies the data type of the embedding's values, indicating how the data is represented in memory, such as float or int."</data>
+      <data key="d2">chunk-73fd087c22538f216324c7f3360826e0&lt;SEP&gt;chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </node>
+    <node id="ASYNCDRIVER">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">AsyncDriver is a class that represents a driver for managing connections to an asynchronous Neo4j database.</data>
+      <data key="d2">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </node>
+    <node id="HAS_NODE">
+      <data key="d0">EVENT</data>
+      <data key="d1">The has_node method checks if a node with a specified ID exists in the Neo4j database, returning a boolean result.</data>
+      <data key="d2">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </node>
+    <node id="WEIGHT">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">weight is a numeric value representing the strength or significance of a relationship between two entities in the graph database.</data>
+      <data key="d2">chunk-21f690edefbe2b6bdc6778dfd8440908</data>
+    </node>
+    <node id="&quot;TOKENS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Tokens refer to the individual elements or units of content that are processed within the system, likely used for indexing or retrieval."</data>
+      <data key="d2">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </node>
+    <node id="&quot;EDGE_PROPERTIES&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Edge properties are attributes associated with edges in a graph that provide additional information about the relationship between connected nodes."</data>
+      <data key="d2">chunk-48bed0b5e959b71cf0334df9cd9b4859</data>
+    </node>
+    <node id="&quot;EMBEDDING_FUNC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"embedding_func is a function utilized to generate embeddings from raw data or queries, facilitating data representation in vector form."</data>
+      <data key="d2">chunk-73fd087c22538f216324c7f3360826e0</data>
+    </node>
+    <node id="URI">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">URI is an environment variable holding the connection string for the Neo4j database.</data>
+      <data key="d2">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </node>
+    <node id="CONTENT">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">content refers to the actual data or text information stored in the OracleKVStorage, crucial for the functionality of the storage system.&lt;SEP&gt;content refers to the comprehensive data or text associated with entities or edges, often derived from lightrag_doc_chunks.</data>
+      <data key="d2">chunk-047287d5e4aa5695c1efb8f9d7050b88&lt;SEP&gt;chunk-21f690edefbe2b6bdc6778dfd8440908</data>
+    </node>
+    <node id="&quot;CHUNK_ORDER_INDEX&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Chunk order index represents the ordering of document chunks, which may be used to maintain the sequence of content."</data>
+      <data key="d2">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </node>
+    <node id="N_T">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">N_T is a dictionary that defines constants representing database table names related to the LightRAG application, including full documents, text chunks, graph nodes, and graph edges.</data>
+      <data key="d2">chunk-41ffa62ae35aacf50b575dc13496e5d9</data>
+    </node>
+    <node id="&quot;TOP_K&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Top_k represents the number of top results to be fetched from a query, often used in search functionality."&lt;SEP&gt;"top_k refers to the count of the highest-scoring results returned from the query method, crucial for limiting results to the most relevant entries."</data>
+      <data key="d2">chunk-73fd087c22538f216324c7f3360826e0&lt;SEP&gt;chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </node>
+    <node id="USERNAME">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">USERNAME is an environment variable that stores the username required for authentication in the Neo4j database.</data>
+      <data key="d2">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </node>
+    <node id="LOGGER">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Logger refers to a system or individual that records events and errors, commonly used in software development for monitoring and troubleshooting.&lt;SEP&gt;logger is a utility object responsible for logging error messages and information within the OracleKVStorage class methods.&lt;SEP&gt;logger is a utility that provides logging functionalities for the LightRAG application, helping in monitoring and debugging operations.</data>
+      <data key="d2">chunk-41ffa62ae35aacf50b575dc13496e5d9&lt;SEP&gt;chunk-047287d5e4aa5695c1efb8f9d7050b88&lt;SEP&gt;chunk-544d3dadb2f692c3f89ab58938400e64</data>
+    </node>
+    <node id="ORACLEDB">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">OracleDB is a class in Python responsible for managing connections to an Oracle database, handling input and output data types, and executing queries and commands efficiently.&lt;SEP&gt;oracledb is a Python library used to facilitate connection and interaction with Oracle databases, providing various methods for database operations.</data>
+      <data key="d2">chunk-f0e6d273aafbc657de6a368f7fc6c1ea</data>
+    </node>
+    <node id="&quot;FULL_DOC_ID&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Full document ID is an identifier that links back to the entire document from which the chunks are extracted."</data>
+      <data key="d2">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </node>
+    <node id="&quot;EMBEDDING_STRING&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Embedding string represents a representation of data in a continuous vector space, used for comparing with content vectors."&lt;SEP&gt;"embedding_string is the string representation of the embedding, formatted for SQL queries, detailing how data is passed to the database."</data>
+      <data key="d2">chunk-73fd087c22538f216324c7f3360826e0&lt;SEP&gt;chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </node>
+    <node id="TABLES">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">TABLES is a dictionary defining SQL table schemas for various components of the LightRAG application, including document storage and graph structures.&lt;SEP&gt;TABLES is a reference to a collection of database tables checked and managed by the OracleDB class to ensure they exist and can be interacted with appropriately.</data>
+      <data key="d2">chunk-41ffa62ae35aacf50b575dc13496e5d9&lt;SEP&gt;chunk-f0e6d273aafbc657de6a368f7fc6c1ea</data>
+    </node>
+    <node id="LOCK">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">lock in this context refers to asyncio's Lock mechanism for managing access to shared resources in an asynchronous environment.</data>
+      <data key="d2">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </node>
+    <node id="HOST">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">host is part of the config settings, representing the address of the Oracle database server which OracleDB connects to.</data>
+      <data key="d2">chunk-f0e6d273aafbc657de6a368f7fc6c1ea</data>
+    </node>
+    <node id="&quot;CONTENT_VECTOR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Content vector refers to the vector representation of the content used for similarity search and retrieval."</data>
+      <data key="d2">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </node>
+    <node id="SQL_TEMPLATES">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">SQL_TEMPLATES is a collection of SQL templates used for database operations within the methods of OracleGraphStorage, ensuring consistent query structures.&lt;SEP&gt;SQL_TEMPLATES is a collection of predefined SQL queries used for various database operations within the self.db organization.&lt;SEP&gt;SQL_TEMPLATES is a dictionary containing SQL query templates for interacting with the LightRAG database, enabling operations like retrieving and merging documents.&lt;SEP&gt;SQL_TEMPLATES refers to a collection of pre-defined SQL queries used in the OracleKVStorage class for various database operations.</data>
+      <data key="d2">chunk-41ffa62ae35aacf50b575dc13496e5d9&lt;SEP&gt;chunk-6ed66bb818dbcb0e7adbf7f59eb26d32&lt;SEP&gt;chunk-b0b884a91809e4c03f9ff49a241fbdf9&lt;SEP&gt;chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </node>
+    <node id="&quot;PARAMS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"params is a dictionary containing parameters that are passed to the SQL query, including the embedding string and query settings."</data>
+      <data key="d2">chunk-73fd087c22538f216324c7f3360826e0</data>
+    </node>
+    <node id="__INIT__">
+      <data key="d0">EVENT</data>
+      <data key="d1">The __init__ method is a constructor in the Neo4JStorage class that initializes the instance with namespace and global configuration, setting up the driver for connecting to the Neo4j database.</data>
+      <data key="d2">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </node>
+    <node id="PORT">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">port is part of the config settings, denoting the network port used to connect to the Oracle database server.</data>
+      <data key="d2">chunk-f0e6d273aafbc657de6a368f7fc6c1ea</data>
+    </node>
+    <node id="&quot;VECTOR_DISTANCE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"VECTOR_DISTANCE is a function or measure used to calculate the distance between vectors, typically in the context of vector space models."</data>
+      <data key="d2">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </node>
+    <node id="BASEGRAPHSTORAGE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">BaseGraphStorage is a base class that defines the structure and behavior for graph database storage systems in the LightRAG application.&lt;SEP&gt;BaseGraphStorage is a parent class that OracleGraphStorage inherits from, indicating its role in providing foundational graph storage functionality.&lt;SEP&gt;BaseGraphStorage is a superclass from which Neo4JStorage inherits, providing foundational methods and properties for graph storage management.</data>
+      <data key="d2">chunk-41ffa62ae35aacf50b575dc13496e5d9&lt;SEP&gt;chunk-b0b884a91809e4c03f9ff49a241fbdf9&lt;SEP&gt;chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </node>
+    <node id="&quot;RESULTS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"results represents the output from the database query, containing the data retrieved from executing the SQL command."</data>
+      <data key="d2">chunk-73fd087c22538f216324c7f3360826e0</data>
+    </node>
+    <node id="__POST_INIT__">
+      <data key="d0">EVENT</data>
+      <data key="d1">The __post_init__ method is invoked after the initialization of a Neo4JStorage instance, typically used for setting up additional attributes such as node embedding algorithms.</data>
+      <data key="d2">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </node>
+    <node id="USER">
+      <data key="d0">PERSON</data>
+      <data key="d1">user is an entity representing the database user credentials required to access the Oracle database, specified in the config.</data>
+      <data key="d2">chunk-f0e6d273aafbc657de6a368f7fc6c1ea</data>
+    </node>
+    <node id="&quot;BETTER_THAN_THRESHOLD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Better than threshold is a numerical condition used to filter results based on distance measures."</data>
+      <data key="d2">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </node>
+    <node id="BASEKVSTORAGE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">BaseKVStorage is a base class designed for key-value storage handling in the LightRAG application, providing common functionalities for key-value data management.&lt;SEP&gt;BaseKVStorage is a parent class for OracleKVStorage that likely defines the basic interface and structures for key-value storage implementations.</data>
+      <data key="d2">chunk-41ffa62ae35aacf50b575dc13496e5d9&lt;SEP&gt;chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </node>
+    <node id="SELF.DB">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">self.db is an organization that appears to manage and query a database, likely involved in operations related to data management.&lt;SEP&gt;self.db represents the database connection instance used for executing queries within the OracleKVStorage class.</data>
+      <data key="d2">chunk-6ed66bb818dbcb0e7adbf7f59eb26d32&lt;SEP&gt;chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </node>
+    <node id="CLOSE">
+      <data key="d0">EVENT</data>
+      <data key="d1">The close method in the Neo4JStorage class is an asynchronous method that closes the Neo4j database driver if it is currently open.</data>
+      <data key="d2">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </node>
+    <node id="PASSWORD">
+      <data key="d0">PERSON</data>
+      <data key="d1">PASSWORD is an environment variable that stores the password required for authentication in the Neo4j database.&lt;SEP&gt;password refers to the secret code associated with the user credential, essential for authenticating access to the Oracle database.</data>
+      <data key="d2">chunk-f0e6d273aafbc657de6a368f7fc6c1ea&lt;SEP&gt;chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </node>
+    <node id="&quot;SOURCE_NODE_ID&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Source node ID is a reference to the originating node in the graph structure when establishing relationships."</data>
+      <data key="d2">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </node>
+    <node id="BASEVECTORSTORAGE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">BaseVectorStorage is a base class that outlines the behavior for managing vector storage, facilitating operations related to vectorized data in the LightRAG application.</data>
+      <data key="d2">chunk-41ffa62ae35aacf50b575dc13496e5d9</data>
+    </node>
+    <node id="NODE_DEGREE">
+      <data key="d0">EVENT</data>
+      <data key="d1">The node_degree method returns the count of edges connected to a specific node in the Neo4j database, indicating its degree in the graph.&lt;SEP&gt;node_degree is a method that calculates the connectivity of a node, indicating how many edges are connected to it.&lt;SEP&gt;node_degree is an event or function that retrieves the degree of a node based on its ID, indicating its connections and relationships.</data>
+      <data key="d2">chunk-6ed66bb818dbcb0e7adbf7f59eb26d32&lt;SEP&gt;chunk-b0b884a91809e4c03f9ff49a241fbdf9&lt;SEP&gt;chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </node>
+    <node id="__AEXIT__">
+      <data key="d0">EVENT</data>
+      <data key="d1">The __aexit__ method is part of the asynchronous context management protocol, ensuring resources are properly closed when exiting the context.</data>
+      <data key="d2">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </node>
+    <node id="DSN">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">dsn stands for Data Source Name, a configuration detail in OracleDB that specifies the database to connect to, including location and database name.</data>
+      <data key="d2">chunk-f0e6d273aafbc657de6a368f7fc6c1ea</data>
+    </node>
+    <node id="&quot;TARGET_NODE_ID&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Target node ID refers to the destination node in the graph structure for relationships and linkages."</data>
+      <data key="d2">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </node>
+    <node id="ASYNCIO">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">asyncio is a Python library that enables asynchronous programming, essential for the asynchronous operations utilized in the OracleGraphStorage class methods.&lt;SEP&gt;asyncio is a Python library used to write concurrent code using the async/await syntax, facilitating asynchronous programming in OracleKVStorage.&lt;SEP&gt;asyncio is a Python library used to write concurrent code using the async/await syntax.&lt;SEP&gt;asyncio is a library in Python that offers support for asynchronous programming, allowing for concurrent code execution and efficient handling of I/O-bound tasks.</data>
+      <data key="d2">chunk-41ffa62ae35aacf50b575dc13496e5d9&lt;SEP&gt;chunk-b0b884a91809e4c03f9ff49a241fbdf9&lt;SEP&gt;chunk-047287d5e4aa5695c1efb8f9d7050b88&lt;SEP&gt;chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </node>
+    <node id="GET_NODE">
+      <data key="d0">EVENT</data>
+      <data key="d1">The get_node method retrieves a node from the Neo4j database based on a given ID and returns its properties as a dictionary.&lt;SEP&gt;get_node is an event or function that retrieves data corresponding to a specific node ID, reflecting its attributes and related information.</data>
+      <data key="d2">chunk-6ed66bb818dbcb0e7adbf7f59eb26d32&lt;SEP&gt;chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </node>
+    <node id="INDEX_DONE_CALLBACK">
+      <data key="d0">EVENT</data>
+      <data key="d1">The index_done_callback is an asynchronous method that logs a message indicating that the knowledge graph has been successfully indexed.</data>
+      <data key="d2">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </node>
+    <node id="GET_EDGE">
+      <data key="d0">EVENT</data>
+      <data key="d1">The get_edge method retrieves properties of the relationship (edge) between two specified nodes in the Neo4j database.&lt;SEP&gt;get_edge is an event or function that retrieves the edge between two specified nodes, which represents a relationship or connection.</data>
+      <data key="d2">chunk-6ed66bb818dbcb0e7adbf7f59eb26d32&lt;SEP&gt;chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </node>
+    <node id="GET_BY_ID">
+      <data key="d2">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+      <data key="d1">The get_by_id method fetches document data using a query executed on self.db, directly linking method functionality to database access.)</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="UPSERT">
+      <data key="d2">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+      <data key="d1">The upsert method makes several calls to self.db to insert or update data within the database, establishing a functional relationship.)</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;DATA&quot;">
+      <data key="d2">chunk-73fd087c22538f216324c7f3360826e0</data>
+      <data key="d1">"OracleVectorDBStorage manages data used for embedding processing and querying within the vector database.""</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;EMBEDDING&quot;">
+      <data key="d2">chunk-73fd087c22538f216324c7f3360826e0</data>
+      <data key="d1">"Dimension of the embedding is defined to specify how many values represent each data point in the vector space.""</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="GET_BY_IDS">
+      <data key="d2">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+      <data key="d1">The res variable captures the result of queries executed in get_by_ids, showing its role in capturing query outcomes.)</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;KG&quot;">
+      <data key="d2">chunk-8b16251883748a2cd9a1c078f6c88535</data>
+      <data key="d1">"kg is a submodule under the lightrag organization, indicating a hierarchical structure within the project."}</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="ORACLE_DB">
+      <data key="d2">chunk-41ffa62ae35aacf50b575dc13496e5d9</data>
+      <data key="d1">oracle_db provides the foundational interaction layer necessary for BaseGraphStorage's implementation within the LightRAG application.</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="FILTER_KEYS">
+      <data key="d2">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+      <data key="d1">params are constructed for executing the SQL query in filter_keys, indicating its role in database querying operations.)</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="LOAD_NX_GRAPH">
+      <data key="d2">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+      <data key="d1">The load_nx_graph method is part of the Neo4JStorage class, illustrating its core function related to graph management, although it lacks implementation details.</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;PROPERTIES&quot;">
+      <data key="d2">chunk-48bed0b5e959b71cf0334df9cd9b4859</data>
+      <data key="d1">"Transaction in Neo4j can be associated with properties that define its characteristics and data handling."&lt;</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <edge source="RETURN" target="SELF.DB">
+      <data key="d3">8.0</data>
+      <data key="d4">return signals the conclusion of SQL query execution within the self.db organization, illustrating the flow of information back to the requester.)</data>
+      <data key="d5">data process completion, communication</data>
+      <data key="d6">chunk-6ed66bb818dbcb0e7adbf7f59eb26d32</data>
+    </edge>
+    <edge source="MULTIROWS" target="SELF.DB">
+      <data key="d3">8.0</data>
+      <data key="d4">multirows signifies the capability of self.db to retrieve extensive data sets, facilitating broader analysis and processing of information.)</data>
+      <data key="d5">data handling, performance</data>
+      <data key="d6">chunk-6ed66bb818dbcb0e7adbf7f59eb26d32</data>
+    </edge>
+    <edge source="MULTIROWS" target="GET_BY_IDS">
+      <data key="d3">9.0</data>
+      <data key="d4">multirows allows the get_by_ids method to retrieve multiple rows from the database, enhancing data retrieval efficiency.)</data>
+      <data key="d5">retrieval efficiency</data>
+      <data key="d6">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </edge>
+    <edge source="&quot;EDGE&quot;" target="&quot;NODE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Edges are used to connect Nodes in a graph, establishing relationships between them."&lt;</data>
+      <data key="d5">"graph structure, relationships"</data>
+      <data key="d6">chunk-48bed0b5e959b71cf0334df9cd9b4859</data>
+    </edge>
+    <edge source="ORACLEGRAPHSTORAGE" target="GRAPHML">
+      <data key="d3">8.0</data>
+      <data key="d4">GraphML files are loaded and saved through the OracleGraphStorage class, signifying its role in handling graph structure data.</data>
+      <data key="d5">data format, graph operations</data>
+      <data key="d6">chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </edge>
+    <edge source="ORACLEGRAPHSTORAGE" target="UPSERT_NODE">
+      <data key="d3">9.0</data>
+      <data key="d4">OracleGraphStorage includes the upsert_node method as a key operation for managing nodes within the graph structure.</data>
+      <data key="d5">method functionality, node management</data>
+      <data key="d6">chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </edge>
+    <edge source="ORACLEGRAPHSTORAGE" target="UPSERT_EDGE">
+      <data key="d3">9.0</data>
+      <data key="d4">The upsert_edge method is part of OracleGraphStorage, crucial for defining relationships between nodes in the graph.</data>
+      <data key="d5">method functionality, edge management</data>
+      <data key="d6">chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </edge>
+    <edge source="ORACLEGRAPHSTORAGE" target="EMBEDDING_FUNC">
+      <data key="d3">8.0</data>
+      <data key="d4">OracleGraphStorage uses the embedding_func to generate vector representations for nodes, integrating machine learning capabilities into graph operations.</data>
+      <data key="d5">functional integration, machine learning</data>
+      <data key="d6">chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </edge>
+    <edge source="ORACLEGRAPHSTORAGE" target="BASEGRAPHSTORAGE">
+      <data key="d3">8.0</data>
+      <data key="d4">OracleGraphStorage extends BaseGraphStorage, adopting its features and adding more specialized methods for handling graph data with Oracle databases.</data>
+      <data key="d5">inheritance, class structure</data>
+      <data key="d6">chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </edge>
+    <edge source="ORACLEGRAPHSTORAGE" target="ASYNCIO">
+      <data key="d3">7.0</data>
+      <data key="d4">OracleGraphStorage employs asyncio to handle asynchronous operations, allowing for concurrent execution within its methods.</data>
+      <data key="d5">asynchronous programming, integration</data>
+      <data key="d6">chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </edge>
+    <edge source="ORACLEGRAPHSTORAGE" target="SQL_TEMPLATES">
+      <data key="d3">7.0</data>
+      <data key="d4">OracleGraphStorage utilizes SQL_TEMPLATES to perform SQL operations, indicating a reliance on predefined templates for database queries.</data>
+      <data key="d5">dependency, database operations</data>
+      <data key="d6">chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </edge>
+    <edge source="ORACLEGRAPHSTORAGE" target="NODE AND EDGE DATA">
+      <data key="d3">9.0</data>
+      <data key="d4">Node and edge data is managed and manipulated through the methods defined in OracleGraphStorage, showcasing its central role in the class.</data>
+      <data key="d5">data management, graph functionality</data>
+      <data key="d6">chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </edge>
+    <edge source="DEGREE" target="NODE_DEGREE">
+      <data key="d3">9.0</data>
+      <data key="d4">node_degree measures the degree of connectivity of a node, reflecting the concept of degree in network theory.)</data>
+      <data key="d5">connectivity measurement, network analysis</data>
+      <data key="d6">chunk-6ed66bb818dbcb0e7adbf7f59eb26d32</data>
+    </edge>
+    <edge source="ORACLEKVSTORAGE" target="BASEKVSTORAGE">
+      <data key="d3">8.0</data>
+      <data key="d4">OracleKVStorage is a subclass of BaseKVStorage, inheriting its properties and methods while providing specific implementations.)</data>
+      <data key="d5">inheritance</data>
+      <data key="d6">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </edge>
+    <edge source="ORACLEKVSTORAGE" target="SQL_TEMPLATES">
+      <data key="d3">7.0</data>
+      <data key="d4">OracleKVStorage utilizes SQL_TEMPLATES for executing structured SQL queries, showcasing its reliance on predefined SQL operations.)</data>
+      <data key="d5">dependency</data>
+      <data key="d6">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </edge>
+    <edge source="ORACLEKVSTORAGE" target="SELF.DB">
+      <data key="d3">9.0</data>
+      <data key="d4">self.db is used within OracleKVStorage to perform database interactions and manage data queries, indicating its integral function.)</data>
+      <data key="d5">integration</data>
+      <data key="d6">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </edge>
+    <edge source="ORACLEKVSTORAGE" target="ASYNCIO">
+      <data key="d3">10.0</data>
+      <data key="d4">OracleKVStorage employs asyncio for managing asynchronous operations, which is critical for non-blocking database queries.)</data>
+      <data key="d5">concurrency</data>
+      <data key="d6">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </edge>
+    <edge source="ORACLEKVSTORAGE" target="LOGGER">
+      <data key="d3">7.0</data>
+      <data key="d4">logger is used throughout the OracleKVStorage class for logging operational messages and error notifications, establishing a role of monitoring.)</data>
+      <data key="d5">monitoring</data>
+      <data key="d6">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </edge>
+    <edge source="ORACLEKVSTORAGE" target="CONTENT">
+      <data key="d3">9.0</data>
+      <data key="d4">content stores the actual data manipulated by OracleKVStorage, forming the core of the key-value storage functionality.)</data>
+      <data key="d5">storage</data>
+      <data key="d6">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </edge>
+    <edge source="ORACLEKVSTORAGE" target="WORKSPACE">
+      <data key="d3">7.0</data>
+      <data key="d4">workspace is an essential attribute for contextualizing the queries and operations performed by OracleKVStorage on the database.)</data>
+      <data key="d5">environment</data>
+      <data key="d6">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </edge>
+    <edge source="ORACLEKVSTORAGE" target="EXCEPTION">
+      <data key="d3">8.0</data>
+      <data key="d4">exception handling in OracleKVStorage is vital for managing errors that occur during database operations, maintaining stability.)</data>
+      <data key="d5">error management</data>
+      <data key="d6">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </edge>
+    <edge source="PARAMS" target="FILTER_KEYS">
+      <data key="d3">8.0</data>
+      <data key="d4">params are constructed for executing the SQL query in filter_keys, indicating its role in database querying operations.)</data>
+      <data key="d5">query parameterization</data>
+      <data key="d6">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </edge>
+    <edge source="PARAMS" target="SELF.DB">
+      <data key="d3">8.0</data>
+      <data key="d4">self.db utilizes params to tailor SQL queries, indicating the importance of parameterization in dynamic data retrieval.)</data>
+      <data key="d5">query optimization, customization</data>
+      <data key="d6">chunk-6ed66bb818dbcb0e7adbf7f59eb26d32</data>
+    </edge>
+    <edge source="NODE_ID" target="GET_NODE">
+      <data key="d3">9.0</data>
+      <data key="d4">get_node retrieves information based on node_id, demonstrating the link between node identification and data retrieval.)</data>
+      <data key="d5">data retrieval, identification</data>
+      <data key="d6">chunk-6ed66bb818dbcb0e7adbf7f59eb26d32</data>
+    </edge>
+    <edge source="NODE_ID" target="UPSERT_NODE">
+      <data key="d3">10.0</data>
+      <data key="d4">The unique node_id is essential for the upsert_node method, as it identifies which node is being inserted or updated in the graph storage.</data>
+      <data key="d5">unique identification, node management</data>
+      <data key="d6">chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </edge>
+    <edge source="NODE_ID" target="NODE_DEGREE">
+      <data key="d3">8.0</data>
+      <data key="d4">The node_degree method calculates the degree of the given node_id, revealing the connectivity of that particular node within the graph.</data>
+      <data key="d5">connectivity analysis, graph analysis</data>
+      <data key="d6">chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </edge>
+    <edge source="&quot;NODE&quot;" target="&quot;PROPERTIES&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Nodes have properties that define their attributes and characteristics in the graph database."&lt;</data>
+      <data key="d5">"node attributes, data representation"</data>
+      <data key="d6">chunk-48bed0b5e959b71cf0334df9cd9b4859</data>
+    </edge>
+    <edge source="SOURCE_NODE_ID" target="GET_EDGE">
+      <data key="d3">9.0</data>
+      <data key="d4">get_edge requires source_node_id to establish the starting point of the relationship, crucial for understanding node interactions.)</data>
+      <data key="d5">relationship establishment, connectivity</data>
+      <data key="d6">chunk-6ed66bb818dbcb0e7adbf7f59eb26d32</data>
+    </edge>
+    <edge source="SOURCE_NODE_ID" target="UPSERT_EDGE">
+      <data key="d3">9.0</data>
+      <data key="d4">The source_node_id is a key parameter in the upsert_edge method, indicating the starting point of the relationship being formed.</data>
+      <data key="d5">relationship definition, edge management</data>
+      <data key="d6">chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </edge>
+    <edge source="CONNECTION" target="CURSOR">
+      <data key="d3">9.0</data>
+      <data key="d4">Connection establishes a communication link that allows the cursor to execute SQL commands and manipulate data in the database.)</data>
+      <data key="d5">database management, operational link</data>
+      <data key="d6">chunk-544d3dadb2f692c3f89ab58938400e64</data>
+    </edge>
+    <edge source="CONNECTION" target="DATA">
+      <data key="d3">7.0</data>
+      <data key="d4">Connection is responsible for managing and providing access to the data stored in the database, enabling data operations.)</data>
+      <data key="d5">data accessibility, management</data>
+      <data key="d6">chunk-544d3dadb2f692c3f89ab58938400e64</data>
+    </edge>
+    <edge source="UPSERT_NODE" target="NODE_DATA">
+      <data key="d3">8.0</data>
+      <data key="d4">The method upsert_node takes node_data as input, which contains the information needed to insert or update a specific node in the graph.</data>
+      <data key="d5">data input, node management</data>
+      <data key="d6">chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </edge>
+    <edge source="TARGET_NODE_ID" target="GET_EDGE">
+      <data key="d3">9.0</data>
+      <data key="d4">get_edge also necessitates target_node_id to determine the endpoint of an edge, reinforcing the understanding of node connections.)</data>
+      <data key="d5">relationship identification, interaction</data>
+      <data key="d6">chunk-6ed66bb818dbcb0e7adbf7f59eb26d32</data>
+    </edge>
+    <edge source="TARGET_NODE_ID" target="UPSERT_EDGE">
+      <data key="d3">9.0</data>
+      <data key="d4">The target_node_id is used in the upsert_edge method to designate the endpoint of the relationship between two nodes.</data>
+      <data key="d5">relationship definition, edge management</data>
+      <data key="d6">chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </edge>
+    <edge source="TOKENS" target="UPSERT">
+      <data key="d3">8.0</data>
+      <data key="d4">tokens are processed during the upsert method of OracleKVStorage, indicating a link to the text content being inserted or updated.)</data>
+      <data key="d5">text processing</data>
+      <data key="d6">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </edge>
+    <edge source="DATA" target="ORACLE DATABASE">
+      <data key="d3">9.0</data>
+      <data key="d4">Data is manipulated and stored within the Oracle Database, highlighting its primary function as a database management system.)</data>
+      <data key="d5">data management, storage</data>
+      <data key="d6">chunk-544d3dadb2f692c3f89ab58938400e64</data>
+    </edge>
+    <edge source="&quot;LIGHTRAG_DOC_CHUNKS&quot;" target="&quot;DUAL&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"LIGHTRAG_DOC_CHUNKS uses DUAL for performing operations in SQL queries."&lt;</data>
+      <data key="d5">"database operation, SQL usage"</data>
+      <data key="d6">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </edge>
+    <edge source="CHUNK_ORDER_INDEX" target="UPSERT">
+      <data key="d3">9.0</data>
+      <data key="d4">chunk_order_index is essential in the upsert method to maintain the order of content chunks being stored.)</data>
+      <data key="d5">order maintenance</data>
+      <data key="d6">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </edge>
+    <edge source="&quot;LIGHTRAG&quot;" target="&quot;KG&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"kg is a submodule under the lightrag organization, indicating a hierarchical structure within the project."}</data>
+      <data key="d5">"project structure, hierarchy"</data>
+      <data key="d6">chunk-8b16251883748a2cd9a1c078f6c88535</data>
+    </edge>
+    <edge source="UPSERT_EDGE" target="EDGE_DATA">
+      <data key="d3">8.0</data>
+      <data key="d4">The upsert_edge method utilizes edge_data to create or update edges between nodes, defining their relationships.</data>
+      <data key="d5">data input, edge management</data>
+      <data key="d6">chunk-b0b884a91809e4c03f9ff49a241fbdf9</data>
+    </edge>
+    <edge source="FULL_DOC_ID" target="UPSERT">
+      <data key="d3">8.0</data>
+      <data key="d4">full_doc_id ensures that the data being inserted or updated with the upsert method is correctly linked to the complete document it belongs to.)</data>
+      <data key="d5">document linkage</data>
+      <data key="d6">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </edge>
+    <edge source="&quot;ORACLEVECTORDBSTORAGE&quot;" target="&quot;BASEVECTORSTORAGE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"OracleVectorDBStorage is a subclass of BaseVectorStorage, inheriting its properties and methods applicable to vector storage.""</data>
+      <data key="d5">"inheritance"</data>
+      <data key="d6">chunk-73fd087c22538f216324c7f3360826e0</data>
+    </edge>
+    <edge source="&quot;ORACLEVECTORDBSTORAGE&quot;" target="&quot;SQL_TEMPLATES&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"OracleVectorDBStorage utilizes SQL_TEMPLATES to format SQL queries within its query method, indicating a reliance on structured SQL for data retrieval.""</data>
+      <data key="d5">"dependency, data retrieval"</data>
+      <data key="d6">chunk-73fd087c22538f216324c7f3360826e0</data>
+    </edge>
+    <edge source="&quot;ORACLEVECTORDBSTORAGE&quot;" target="&quot;QUERY&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"The query method is a primary function of OracleVectorDBStorage, executing the logic to fetch data from the database.""</data>
+      <data key="d5">"core functionality"</data>
+      <data key="d6">chunk-73fd087c22538f216324c7f3360826e0</data>
+    </edge>
+    <edge source="&quot;ORACLEVECTORDBSTORAGE&quot;" target="&quot;DATA&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"OracleVectorDBStorage manages data used for embedding processing and querying within the vector database.""</data>
+      <data key="d5">"data management"</data>
+      <data key="d6">chunk-73fd087c22538f216324c7f3360826e0</data>
+    </edge>
+    <edge source="&quot;VECTOR_STORAGE&quot;" target="&quot;LIGHTRAG_GRAPH_NODES&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"VECTOR_STORAGE retrieves names of entities from LIGHTRAG_GRAPH_NODES for processing."&lt;</data>
+      <data key="d5">"data retrieval, database query"</data>
+      <data key="d6">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </edge>
+    <edge source="RES" target="GET_BY_IDS">
+      <data key="d3">9.0</data>
+      <data key="d4">The res variable captures the result of queries executed in get_by_ids, showing its role in capturing query outcomes.)</data>
+      <data key="d5">query result</data>
+      <data key="d6">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </edge>
+    <edge source="&quot;SESSION&quot;" target="&quot;TRANSACTION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"A Session in Neo4j is responsible for managing and executing Transactions to ensure proper database operations."&lt;</data>
+      <data key="d5">"database management, execution process"</data>
+      <data key="d6">chunk-48bed0b5e959b71cf0334df9cd9b4859</data>
+    </edge>
+    <edge source="&quot;GRAPH_STORAGE&quot;" target="&quot;LIGHTRAG_GRAPH_EDGES&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"GRAPH_STORAGE manages edges that define relationships between entities in the LIGHTRAG_GRAPH_EDGES."&lt;</data>
+      <data key="d5">"relationship management, database operation"</data>
+      <data key="d6">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </edge>
+    <edge source="CURSOR" target="SQL">
+      <data key="d3">8.0</data>
+      <data key="d4">Cursor executes SQL commands to interact with the database, showing its integral role in database operations and manipulations.)</data>
+      <data key="d5">execution, database interaction</data>
+      <data key="d6">chunk-544d3dadb2f692c3f89ab58938400e64</data>
+    </edge>
+    <edge source="&quot;TRANSACTION&quot;" target="&quot;PROPERTIES&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Transaction in Neo4j can be associated with properties that define its characteristics and data handling."&lt;</data>
+      <data key="d5">"transaction attributes, data handling"</data>
+      <data key="d6">chunk-48bed0b5e959b71cf0334df9cd9b4859</data>
+    </edge>
+    <edge source="&quot;TRANSACTION&quot;" target="&quot;QUERY&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"A query is executed within a Transaction context, allowing for safe and atomic data operations."&lt;</data>
+      <data key="d5">"safe execution, atomicity"</data>
+      <data key="d6">chunk-48bed0b5e959b71cf0334df9cd9b4859</data>
+    </edge>
+    <edge source="NEO4JSTORAGE" target="BASEGRAPHSTORAGE">
+      <data key="d3">9.0</data>
+      <data key="d4">Neo4JStorage inherits from BaseGraphStorage, utilizing its functions and extending its capabilities for Neo4j database management.</data>
+      <data key="d5">inheritance</data>
+      <data key="d6">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </edge>
+    <edge source="NEO4JSTORAGE" target="ASYNCDRIVER">
+      <data key="d3">8.0</data>
+      <data key="d4">Neo4JStorage uses AsyncDriver to create an asynchronous driver for the Neo4j database operations, allowing for efficient connection handling.</data>
+      <data key="d5">database operations, connection management</data>
+      <data key="d6">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </edge>
+    <edge source="NEO4JSTORAGE" target="OS">
+      <data key="d3">7.0</data>
+      <data key="d4">The Neo4JStorage class utilizes the os module to access environment variables needed for database connection details.</data>
+      <data key="d5">environment variable access, system integration</data>
+      <data key="d6">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </edge>
+    <edge source="NEO4JSTORAGE" target="ASYNCIO">
+      <data key="d3">8.0</data>
+      <data key="d4">Neo4JStorage leverages the asyncio library to enable non-blocking behavior in database interactions, improving performance in asynchronous programming contexts.</data>
+      <data key="d5">asynchronous programming, performance</data>
+      <data key="d6">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </edge>
+    <edge source="NEO4JSTORAGE" target="LOAD_NX_GRAPH">
+      <data key="d3">7.0</data>
+      <data key="d4">The load_nx_graph method is part of the Neo4JStorage class, illustrating its core function related to graph management, although it lacks implementation details.</data>
+      <data key="d5">method functionality, graph management</data>
+      <data key="d6">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </edge>
+    <edge source="NEO4JSTORAGE" target="__INIT__">
+      <data key="d3">8.0</data>
+      <data key="d4">The __init__ method establishes foundational configurations for an instance of Neo4JStorage, which is essential for its operation.</data>
+      <data key="d5">initialization</data>
+      <data key="d6">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </edge>
+    <edge source="NEO4JSTORAGE" target="CLOSE">
+      <data key="d3">8.0</data>
+      <data key="d4">The close method is critical for ensuring that resources are freed when the Neo4JStorage instance is no longer needed, maintaining efficient resource management.</data>
+      <data key="d5">resource management</data>
+      <data key="d6">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </edge>
+    <edge source="NEO4JSTORAGE" target="HAS_NODE">
+      <data key="d3">6.0</data>
+      <data key="d4">The has_node method allows Neo4JStorage to verify the existence of nodes, which is crucial for data integrity in database operations.</data>
+      <data key="d5">data verification, integrity</data>
+      <data key="d6">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </edge>
+    <edge source="NEO4JSTORAGE" target="GET_NODE">
+      <data key="d3">7.0</data>
+      <data key="d4">The get_node method retrieves specific node data, allowing Neo4JStorage to access and utilize stored information in the database.</data>
+      <data key="d5">data retrieval, access</data>
+      <data key="d6">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </edge>
+    <edge source="NEO4JSTORAGE" target="NODE_DEGREE">
+      <data key="d3">6.0</data>
+      <data key="d4">The node_degree method is utilized by Neo4JStorage to analyze node connectivity, providing insights into the graph structure and relationships.</data>
+      <data key="d5">structural analysis, connectivity</data>
+      <data key="d6">chunk-368ad9dd243e7dfd48f5c82564f5dcf7</data>
+    </edge>
+    <edge source="ORACLE DATABASE" target="ORACLEDB">
+      <data key="d3">9.0</data>
+      <data key="d4">OracleDB interacts with the Oracle database to execute queries, manage connections, and handle data types, establishing a direct operational relationship between them.)</data>
+      <data key="d5">database management, connection handling</data>
+      <data key="d6">chunk-f0e6d273aafbc657de6a368f7fc6c1ea</data>
+    </edge>
+    <edge source="ORACLE DATABASE" target="LOGGER">
+      <data key="d3">7.0</data>
+      <data key="d4">Logger captures and logs errors related to Oracle Database, indicating its role in error monitoring and reporting during database operations.)</data>
+      <data key="d5">error monitoring, reporting</data>
+      <data key="d6">chunk-544d3dadb2f692c3f89ab58938400e64</data>
+    </edge>
+    <edge source="SQL" target="SELF.DB">
+      <data key="d3">9.0</data>
+      <data key="d4">self.db employs SQL as the primary method for executing queries, highlighting its integral role in database management processes.)</data>
+      <data key="d5">language use, operational foundation</data>
+      <data key="d6">chunk-6ed66bb818dbcb0e7adbf7f59eb26d32</data>
+    </edge>
+    <edge source="&quot;EMBEDDINGS&quot;" target="&quot;QUERY&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The query method utilizes embeddings to perform searches in the vector database, correlating queries with relevant data points.""</data>
+      <data key="d5">"search process"</data>
+      <data key="d6">chunk-73fd087c22538f216324c7f3360826e0</data>
+    </edge>
+    <edge source="&quot;CONTENT&quot;" target="&quot;WORKSPACE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Workspace serves as the context in which content is organized and processed in the system."&lt;</data>
+      <data key="d5">"data organization, context"</data>
+      <data key="d6">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </edge>
+    <edge source="&quot;CONTENT&quot;" target="&quot;TOKENS&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Tokens represent the elements of the content that are processed for retrieval and indexing."&lt;</data>
+      <data key="d5">"data processing, indexing"</data>
+      <data key="d6">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </edge>
+    <edge source="&quot;CONTENT&quot;" target="&quot;CHUNK_ORDER_INDEX&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Chunk order index maintains the sequence of content within chunks for accurate representation."&lt;</data>
+      <data key="d5">"content organization, sequencing"</data>
+      <data key="d6">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </edge>
+    <edge source="&quot;CONTENT&quot;" target="&quot;FULL_DOC_ID&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Full doc ID links back to the complete document associated with the content chunks."&lt;</data>
+      <data key="d5">"data linkage, identification"</data>
+      <data key="d6">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </edge>
+    <edge source="&quot;QUERY&quot;" target="&quot;EMBEDDING_FUNC&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"embedding_func is called within the query method to generate embeddings from the user's input, essential for the searching process.""</data>
+      <data key="d5">"data transformation"</data>
+      <data key="d6">chunk-73fd087c22538f216324c7f3360826e0</data>
+    </edge>
+    <edge source="&quot;QUERY&quot;" target="&quot;PARAMS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Params are constructed within the query method to define the settings needed for the SQL execution, indicating the parameters passed to the database.""</data>
+      <data key="d5">"parameterization"</data>
+      <data key="d6">chunk-73fd087c22538f216324c7f3360826e0</data>
+    </edge>
+    <edge source="&quot;QUERY&quot;" target="&quot;RESULTS&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"The query method returns results after executing the SQL command, indicating successful retrieval of data from the database.""</data>
+      <data key="d5">"data retrieval"</data>
+      <data key="d6">chunk-73fd087c22538f216324c7f3360826e0</data>
+    </edge>
+    <edge source="&quot;DIMENSION&quot;" target="&quot;EMBEDDING&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Dimension of the embedding is defined to specify how many values represent each data point in the vector space.""</data>
+      <data key="d5">"data representation"</data>
+      <data key="d6">chunk-73fd087c22538f216324c7f3360826e0</data>
+    </edge>
+    <edge source="&quot;DIMENSION&quot;" target="&quot;CONTENT_VECTOR&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Dimension defines the vector space in which the content vector operates and is analyzed."&lt;</data>
+      <data key="d5">"data representation, vector analysis"</data>
+      <data key="d6">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </edge>
+    <edge source="N_T" target="TABLES">
+      <data key="d3">8.0</data>
+      <data key="d4">N_T defines constants for table names which are utilized in the SQL_TEMPLATES, linking the definitions to their implementations in SQL queries.</data>
+      <data key="d5">database schema, data handling</data>
+      <data key="d6">chunk-41ffa62ae35aacf50b575dc13496e5d9</data>
+    </edge>
+    <edge source="&quot;TOP_K&quot;" target="&quot;VECTOR_DISTANCE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Top_k specifies how many of the closest vectors based on VECTOR_DISTANCE are returned."&lt;</data>
+      <data key="d5">"data retrieval, ranking"</data>
+      <data key="d6">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </edge>
+    <edge source="ORACLEDB" target="TABLES">
+      <data key="d3">8.0</data>
+      <data key="d4">OracleDB checks and manages the status of the TABLES within the database, ensuring they exist and are ready for data operations.)</data>
+      <data key="d5">data management, table verification</data>
+      <data key="d6">chunk-f0e6d273aafbc657de6a368f7fc6c1ea</data>
+    </edge>
+    <edge source="&quot;EMBEDDING_STRING&quot;" target="&quot;PARAMS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Embedding_string is included in params to link the generated embedding with the SQL query execution, crucial for retrieving results.""</data>
+      <data key="d5">"string representation"</data>
+      <data key="d6">chunk-73fd087c22538f216324c7f3360826e0</data>
+    </edge>
+    <edge source="&quot;EMBEDDING_STRING&quot;" target="&quot;VECTOR_DISTANCE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Embedding string is compared against content vectors through the VECTOR_DISTANCE measure."&lt;</data>
+      <data key="d5">"vector analysis, similarity measure"</data>
+      <data key="d6">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </edge>
+    <edge source="TABLES" target="SQL_TEMPLATES">
+      <data key="d3">9.0</data>
+      <data key="d4">TABLES specifies the database structures that are manipulated through the SQL_TEMPLATES, indicating a direct functional relationship in data management.</data>
+      <data key="d5">database management, query templates</data>
+      <data key="d6">chunk-41ffa62ae35aacf50b575dc13496e5d9</data>
+    </edge>
+    <edge source="&quot;CONTENT_VECTOR&quot;" target="&quot;VECTOR_DISTANCE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Content vector is used in conjunction with VECTOR_DISTANCE to measure similarity with other vectors."&lt;</data>
+      <data key="d5">"vector comparison, data analysis"</data>
+      <data key="d6">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </edge>
+    <edge source="SQL_TEMPLATES" target="SELF.DB">
+      <data key="d3">8.0</data>
+      <data key="d4">self.db uses SQL_TEMPLATES to execute various predefined SQL queries to manage data effectively.)</data>
+      <data key="d5">database management, organizational structure</data>
+      <data key="d6">chunk-6ed66bb818dbcb0e7adbf7f59eb26d32</data>
+    </edge>
+    <edge source="&quot;VECTOR_DISTANCE&quot;" target="&quot;BETTER_THAN_THRESHOLD&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Better than threshold is a filtering criteria applied to VECTOR_DISTANCE results."&lt;</data>
+      <data key="d5">"data filtering, performance measure"</data>
+      <data key="d6">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </edge>
+    <edge source="BASEGRAPHSTORAGE" target="ORACLE_DB">
+      <data key="d3">8.0</data>
+      <data key="d4">oracle_db provides the foundational interaction layer necessary for BaseGraphStorage's implementation within the LightRAG application.</data>
+      <data key="d5">database functionality, foundational layer</data>
+      <data key="d6">chunk-41ffa62ae35aacf50b575dc13496e5d9</data>
+    </edge>
+    <edge source="BASEKVSTORAGE" target="BASEVECTORSTORAGE">
+      <data key="d3">7.0</data>
+      <data key="d4">BaseKVStorage can work alongside BaseVectorStorage in managing different types of data storage, showcasing the modular design of the LightRAG application.</data>
+      <data key="d5">data management, modular design</data>
+      <data key="d6">chunk-41ffa62ae35aacf50b575dc13496e5d9</data>
+    </edge>
+    <edge source="SELF.DB" target="GET_BY_ID">
+      <data key="d3">8.0</data>
+      <data key="d4">The get_by_id method fetches document data using a query executed on self.db, directly linking method functionality to database access.)</data>
+      <data key="d5">database access</data>
+      <data key="d6">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </edge>
+    <edge source="SELF.DB" target="UPSERT">
+      <data key="d3">9.0</data>
+      <data key="d4">The upsert method makes several calls to self.db to insert or update data within the database, establishing a functional relationship.)</data>
+      <data key="d5">database manipulation</data>
+      <data key="d6">chunk-047287d5e4aa5695c1efb8f9d7050b88</data>
+    </edge>
+    <edge source="SELF.DB" target="NODE_DEGREE">
+      <data key="d3">9.0</data>
+      <data key="d4">node_degree is a function that operates within self.db to determine the connections of a node based on its ID.)</data>
+      <data key="d5">functionality, data handling</data>
+      <data key="d6">chunk-6ed66bb818dbcb0e7adbf7f59eb26d32</data>
+    </edge>
+    <edge source="SELF.DB" target="GET_NODE">
+      <data key="d3">9.0</data>
+      <data key="d4">get_node is a method within self.db that retrieves data for specific nodes, showing the organization's focus on data extraction.)</data>
+      <data key="d5">data retrieval, organization</data>
+      <data key="d6">chunk-6ed66bb818dbcb0e7adbf7f59eb26d32</data>
+    </edge>
+    <edge source="SELF.DB" target="GET_EDGE">
+      <data key="d3">9.0</data>
+      <data key="d4">get_edge operates within self.db to find connections between nodes, emphasizing the organization's role in relationship management.)</data>
+      <data key="d5">relationship management, data connections</data>
+      <data key="d6">chunk-6ed66bb818dbcb0e7adbf7f59eb26d32</data>
+    </edge>
+    <edge source="&quot;SOURCE_NODE_ID&quot;" target="&quot;TARGET_NODE_ID&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Source node ID and target node ID define the relationship between nodes in the graph structure."&lt;</data>
+      <data key="d5">"graph relationship, connectivity"</data>
+      <data key="d6">chunk-a0f9b29b174363adf15c9d4796ea216d</data>
+    </edge>
+  </graph>
+</graphml>
